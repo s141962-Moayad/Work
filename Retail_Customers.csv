@@ -1,0 +1,1501 @@
+Customer_ID,Branch,Region,Customer_Type,Age,Waiting_Time_Min,Purchase_Amount_OMR,Satisfaction_Score
+CUST0001,Nizwa,Al Dakhiliyah,Regular,42,10.1,40.3,3.4
+CUST0002,Nizwa,Al Dakhiliyah,Regular,41,4.1,13.33,4.4
+CUST0003,Seeb,Muscat,Premium,18,15.8,70.55,3.6
+CUST0004,Salalah,Dhofar,Regular,55,12.2,46.59,3.8
+CUST0005,Sohar,Al Batinah North,Regular,18,10.7,49.89,3.4
+CUST0006,Salalah,Dhofar,Regular,36,7.1,45.85,3.5
+CUST0007,Sohar,Al Batinah North,Regular,43,9.0,31.03,3.1
+CUST0008,Nizwa,Al Dakhiliyah,Regular,25,7.9,25.45,3.9
+CUST0009,Sohar,Al Batinah North,Business,36,9.7,99.26,3.9
+CUST0010,Nizwa,Al Dakhiliyah,Regular,36,2.5,12.85,5.0
+CUST0011,Seeb,Muscat,Regular,19,17.7,39.58,2.1
+CUST0012,Salalah,Dhofar,Regular,47,12.0,5.0,3.8
+CUST0013,Seeb,Muscat,Premium,24,11.5,77.97,3.4
+CUST0014,Salalah,Dhofar,Business,39,7.5,112.79,4.1
+CUST0015,Sohar,Al Batinah North,Regular,20,5.3,10.99,4.0
+CUST0016,Seeb,Muscat,Business,45,11.1,95.14,5.0
+CUST0017,Sohar,Al Batinah North,Regular,50,8.3,22.56,3.2
+CUST0018,Muscat City,Muscat,Regular,49,12.2,36.18,3.2
+CUST0019,Sur,Al Sharqiyah South,Regular,25,7.9,20.04,4.2
+CUST0020,Seeb,Muscat,Regular,29,11.2,33.18,2.9
+CUST0021,Salalah,Dhofar,Regular,33,11.9,33.23,3.8
+CUST0022,Sohar,Al Batinah North,Regular,44,13.1,16.29,3.4
+CUST0023,Sohar,Al Batinah North,Regular,32,8.0,37.12,3.5
+CUST0024,Muscat City,Muscat,Premium,41,7.5,49.79,3.4
+CUST0025,Salalah,Dhofar,Regular,46,13.9,41.26,3.2
+CUST0026,Nizwa,Al Dakhiliyah,Regular,40,13.3,71.14,3.3
+CUST0027,Muscat City,Muscat,Regular,18,17.8,29.01,2.7
+CUST0028,Seeb,Muscat,Regular,36,13.0,36.79,3.6
+CUST0029,Sohar,Al Batinah North,Regular,32,6.0,39.4,3.2
+CUST0030,Muscat City,Muscat,Regular,48,1.0,5.0,3.9
+CUST0031,Muscat City,Muscat,Premium,32,12.6,30.88,4.1
+CUST0032,Sur,Al Sharqiyah South,Business,61,15.2,92.59,4.3
+CUST0033,Salalah,Dhofar,Regular,25,13.0,10.32,3.0
+CUST0034,Seeb,Muscat,Regular,26,2.5,41.98,4.5
+CUST0035,Muscat City,Muscat,Regular,29,17.9,34.78,2.9
+CUST0036,Sohar,Al Batinah North,Premium,47,16.7,37.04,3.7
+CUST0037,Sohar,Al Batinah North,Premium,26,10.8,32.7,3.4
+CUST0038,Salalah,Dhofar,Premium,42,9.2,56.65,3.2
+CUST0039,Seeb,Muscat,Regular,30,1.0,40.06,4.2
+CUST0040,Nizwa,Al Dakhiliyah,Regular,40,7.9,16.92,3.8
+CUST0041,Muscat City,Muscat,Regular,18,2.4,25.86,3.8
+CUST0042,Seeb,Muscat,Premium,34,15.6,45.31,2.8
+CUST0043,Seeb,Muscat,Premium,32,10.3,20.41,3.1
+CUST0044,Sohar,Al Batinah North,Regular,34,1.0,15.84,5.0
+CUST0045,Sur,Al Sharqiyah South,Regular,27,11.1,46.67,3.4
+CUST0046,Seeb,Muscat,Business,66,9.6,83.89,3.6
+CUST0047,Nizwa,Al Dakhiliyah,Regular,29,7.9,44.98,3.3
+CUST0048,Sohar,Al Batinah North,Regular,35,10.0,29.8,3.3
+CUST0049,Sohar,Al Batinah North,Regular,36,9.6,49.46,3.6
+CUST0050,Nizwa,Al Dakhiliyah,Premium,23,11.5,61.85,4.0
+CUST0051,Seeb,Muscat,Regular,18,17.8,27.4,2.8
+CUST0052,Muscat City,Muscat,Regular,63,11.1,81.65,3.2
+CUST0053,Muscat City,Muscat,Premium,37,21.9,85.48,2.0
+CUST0054,Seeb,Muscat,Premium,43,3.8,69.07,4.1
+CUST0055,Muscat City,Muscat,Regular,35,9.7,5.0,3.0
+CUST0056,Seeb,Muscat,Business,32,9.9,120.29,3.7
+CUST0057,Nizwa,Al Dakhiliyah,Regular,19,7.8,63.84,4.1
+CUST0058,Seeb,Muscat,Regular,47,7.2,5.0,3.3
+CUST0059,Muscat City,Muscat,Premium,18,14.1,35.66,3.3
+CUST0060,Seeb,Muscat,Regular,27,9.6,31.78,3.6
+CUST0061,Seeb,Muscat,Business,55,15.5,73.66,3.7
+CUST0062,Muscat City,Muscat,Regular,42,16.5,60.39,2.5
+CUST0063,Salalah,Dhofar,Premium,35,2.6,61.97,5.0
+CUST0064,Muscat City,Muscat,Premium,30,5.4,90.65,4.3
+CUST0065,Salalah,Dhofar,Regular,18,18.4,70.1,2.9
+CUST0066,Nizwa,Al Dakhiliyah,Regular,25,8.2,38.98,4.2
+CUST0067,Sohar,Al Batinah North,Regular,30,12.5,12.7,2.8
+CUST0068,Seeb,Muscat,Regular,29,6.2,46.21,4.7
+CUST0069,Salalah,Dhofar,Regular,30,13.4,36.46,3.5
+CUST0070,Muscat City,Muscat,Premium,34,4.4,63.33,3.8
+CUST0071,Seeb,Muscat,Regular,39,8.2,51.88,2.8
+CUST0072,Muscat City,Muscat,Regular,35,8.5,62.88,3.9
+CUST0073,Muscat City,Muscat,Regular,21,9.8,41.57,3.9
+CUST0074,Seeb,Muscat,Regular,32,13.8,34.37,3.2
+CUST0075,Muscat City,Muscat,Regular,35,10.4,5.0,2.9
+CUST0076,Nizwa,Al Dakhiliyah,Business,45,8.2,91.76,5.0
+CUST0077,Sohar,Al Batinah North,Regular,48,5.4,15.75,4.4
+CUST0078,Muscat City,Muscat,Regular,33,11.4,17.57,3.1
+CUST0079,Sur,Al Sharqiyah South,Premium,31,10.3,50.77,3.0
+CUST0080,Seeb,Muscat,Regular,42,8.7,11.97,3.7
+CUST0081,Muscat City,Muscat,Regular,26,13.2,46.68,4.1
+CUST0082,Nizwa,Al Dakhiliyah,Regular,34,5.4,60.91,4.2
+CUST0083,Muscat City,Muscat,Regular,35,11.2,6.24,3.4
+CUST0084,Muscat City,Muscat,Business,57,8.0,123.61,3.3
+CUST0085,Salalah,Dhofar,Regular,30,16.5,50.77,3.0
+CUST0086,Sur,Al Sharqiyah South,Regular,28,10.5,42.7,3.8
+CUST0087,Seeb,Muscat,Regular,52,18.2,54.08,2.6
+CUST0088,Nizwa,Al Dakhiliyah,Regular,46,10.8,40.94,3.6
+CUST0089,Muscat City,Muscat,Regular,63,17.7,34.1,3.1
+CUST0090,Sohar,Al Batinah North,Regular,18,5.8,26.36,3.7
+CUST0091,Nizwa,Al Dakhiliyah,Regular,26,2.7,48.81,4.2
+CUST0092,Seeb,Muscat,Regular,53,3.1,34.88,3.1
+CUST0093,Sohar,Al Batinah North,Premium,43,13.3,76.08,4.4
+CUST0094,Sohar,Al Batinah North,Regular,26,13.3,39.61,3.3
+CUST0095,Muscat City,Muscat,Premium,25,22.6,68.28,3.2
+CUST0096,Nizwa,Al Dakhiliyah,Regular,28,3.2,26.35,3.7
+CUST0097,Nizwa,Al Dakhiliyah,Regular,45,10.5,24.28,3.5
+CUST0098,Muscat City,Muscat,Premium,40,11.5,48.69,3.0
+CUST0099,Seeb,Muscat,Regular,32,9.9,63.38,4.5
+CUST0100,Nizwa,Al Dakhiliyah,Regular,34,7.1,19.97,3.5
+CUST0101,Salalah,Dhofar,Regular,47,7.7,5.0,2.8
+CUST0102,Seeb,Muscat,Regular,22,16.8,59.54,3.2
+CUST0103,Seeb,Muscat,Regular,40,7.0,72.98,4.3
+CUST0104,Seeb,Muscat,Regular,41,8.3,59.45,4.5
+CUST0105,Sur,Al Sharqiyah South,Regular,46,5.3,36.1,3.5
+CUST0106,Sur,Al Sharqiyah South,Regular,23,6.8,28.27,3.8
+CUST0107,Nizwa,Al Dakhiliyah,Premium,49,9.1,73.77,3.6
+CUST0108,Nizwa,Al Dakhiliyah,Regular,27,8.8,77.3,3.8
+CUST0109,Sohar,Al Batinah North,Regular,42,5.5,22.74,3.9
+CUST0110,Seeb,Muscat,Regular,35,15.1,37.76,3.1
+CUST0111,Seeb,Muscat,Regular,40,14.8,35.07,3.5
+CUST0112,Sohar,Al Batinah North,Regular,33,12.8,43.74,3.6
+CUST0113,Seeb,Muscat,Regular,21,12.7,36.67,4.6
+CUST0114,Sur,Al Sharqiyah South,Regular,37,7.4,45.98,4.4
+CUST0115,Muscat City,Muscat,Regular,44,14.2,27.36,3.4
+CUST0116,Muscat City,Muscat,Regular,43,11.8,37.88,3.5
+CUST0117,Muscat City,Muscat,Regular,44,8.6,28.66,3.4
+CUST0118,Seeb,Muscat,Premium,58,11.5,61.5,3.3
+CUST0119,Salalah,Dhofar,Premium,27,13.9,51.18,3.0
+CUST0120,Salalah,Dhofar,Regular,36,4.7,19.67,3.8
+CUST0121,Salalah,Dhofar,Regular,50,6.5,37.41,3.8
+CUST0122,Seeb,Muscat,Regular,44,13.5,22.06,3.7
+CUST0123,Nizwa,Al Dakhiliyah,Premium,35,7.7,62.37,3.4
+CUST0124,Sur,Al Sharqiyah South,Premium,29,7.2,46.47,4.5
+CUST0125,Sur,Al Sharqiyah South,Business,50,14.1,137.27,3.1
+CUST0126,Seeb,Muscat,Regular,30,16.5,20.7,3.2
+CUST0127,Nizwa,Al Dakhiliyah,Regular,30,13.9,5.0,2.4
+CUST0128,Nizwa,Al Dakhiliyah,Regular,43,2.9,33.61,4.8
+CUST0129,Sur,Al Sharqiyah South,Premium,44,13.6,53.36,3.2
+CUST0130,Muscat City,Muscat,Regular,18,11.5,17.38,3.6
+CUST0131,Sohar,Al Batinah North,Premium,25,18.9,33.69,2.0
+CUST0132,Seeb,Muscat,Regular,22,6.3,26.42,4.4
+CUST0133,Sohar,Al Batinah North,Premium,43,5.3,72.71,4.8
+CUST0134,Sur,Al Sharqiyah South,Regular,32,9.5,18.24,4.5
+CUST0135,Nizwa,Al Dakhiliyah,Regular,34,1.0,43.17,4.3
+CUST0136,Seeb,Muscat,Regular,18,13.0,27.18,3.1
+CUST0137,Seeb,Muscat,Regular,38,9.7,23.29,2.9
+CUST0138,Muscat City,Muscat,Premium,39,7.6,57.29,3.9
+CUST0139,Nizwa,Al Dakhiliyah,Regular,36,12.1,55.13,3.6
+CUST0140,Nizwa,Al Dakhiliyah,Regular,31,16.6,40.23,2.2
+CUST0141,Muscat City,Muscat,Regular,22,15.1,24.84,3.0
+CUST0142,Sohar,Al Batinah North,Regular,24,10.7,7.44,3.0
+CUST0143,Muscat City,Muscat,Premium,23,23.7,54.0,2.2
+CUST0144,Salalah,Dhofar,Regular,27,10.8,45.0,2.8
+CUST0145,Salalah,Dhofar,Regular,34,16.8,51.2,2.9
+CUST0146,Muscat City,Muscat,Premium,40,7.6,57.07,2.5
+CUST0147,Muscat City,Muscat,Regular,35,13.5,30.04,2.7
+CUST0148,Seeb,Muscat,Premium,18,5.5,62.34,4.9
+CUST0149,Sohar,Al Batinah North,Regular,45,17.6,37.85,2.7
+CUST0150,Nizwa,Al Dakhiliyah,Regular,32,11.5,49.81,3.6
+CUST0151,Muscat City,Muscat,Regular,29,6.5,28.57,3.5
+CUST0152,Muscat City,Muscat,Regular,29,16.9,45.71,2.6
+CUST0153,Muscat City,Muscat,Regular,44,11.1,16.44,3.4
+CUST0154,Muscat City,Muscat,Regular,38,12.0,33.49,3.2
+CUST0155,Sohar,Al Batinah North,Business,34,8.4,92.63,4.1
+CUST0156,Seeb,Muscat,Regular,47,20.6,58.02,3.7
+CUST0157,Sohar,Al Batinah North,Regular,44,5.9,28.26,3.7
+CUST0158,Sohar,Al Batinah North,Regular,26,10.2,40.36,3.4
+CUST0159,Nizwa,Al Dakhiliyah,Regular,19,9.5,30.45,3.7
+CUST0160,Nizwa,Al Dakhiliyah,Regular,42,9.3,8.61,4.0
+CUST0161,Muscat City,Muscat,Regular,21,7.7,25.01,3.7
+CUST0162,Muscat City,Muscat,Regular,33,11.1,43.23,3.1
+CUST0163,Sur,Al Sharqiyah South,Premium,35,7.2,59.21,3.8
+CUST0164,Muscat City,Muscat,Regular,35,10.8,24.99,3.3
+CUST0165,Nizwa,Al Dakhiliyah,Premium,25,9.2,65.26,3.4
+CUST0166,Sohar,Al Batinah North,Regular,27,13.6,55.37,2.9
+CUST0167,Seeb,Muscat,Regular,34,12.6,30.49,3.3
+CUST0168,Seeb,Muscat,Regular,18,12.3,46.06,2.9
+CUST0169,Salalah,Dhofar,Regular,22,5.5,46.23,4.6
+CUST0170,Sohar,Al Batinah North,Premium,18,3.7,67.0,3.8
+CUST0171,Sohar,Al Batinah North,Regular,49,17.4,33.78,3.4
+CUST0172,Muscat City,Muscat,Regular,43,14.2,5.0,3.5
+CUST0173,Muscat City,Muscat,Regular,47,15.0,75.05,4.0
+CUST0174,Seeb,Muscat,Regular,40,7.9,45.21,3.1
+CUST0175,Seeb,Muscat,Regular,18,15.5,65.89,4.2
+CUST0176,Muscat City,Muscat,Regular,18,17.9,38.21,1.8
+CUST0177,Sur,Al Sharqiyah South,Regular,31,15.0,14.2,2.6
+CUST0178,Seeb,Muscat,Business,32,5.1,98.57,4.2
+CUST0179,Salalah,Dhofar,Regular,40,8.2,40.59,4.4
+CUST0180,Muscat City,Muscat,Business,51,9.2,123.84,4.1
+CUST0181,Seeb,Muscat,Regular,26,12.3,33.9,2.9
+CUST0182,Muscat City,Muscat,Regular,44,14.6,38.42,2.9
+CUST0183,Nizwa,Al Dakhiliyah,Regular,30,18.1,59.22,3.0
+CUST0184,Muscat City,Muscat,Business,30,10.5,85.21,3.3
+CUST0185,Muscat City,Muscat,Regular,22,11.8,23.37,3.1
+CUST0186,Muscat City,Muscat,Premium,18,18.5,62.98,3.1
+CUST0187,Seeb,Muscat,Regular,32,8.7,29.49,3.5
+CUST0188,Seeb,Muscat,Regular,23,3.1,49.84,4.0
+CUST0189,Salalah,Dhofar,Regular,47,12.9,13.55,2.4
+CUST0190,Sohar,Al Batinah North,Premium,25,11.2,39.76,2.5
+CUST0191,Salalah,Dhofar,Regular,38,7.2,38.4,4.2
+CUST0192,Salalah,Dhofar,Regular,32,18.5,45.84,3.3
+CUST0193,Salalah,Dhofar,Premium,55,13.1,63.83,2.9
+CUST0194,Seeb,Muscat,Regular,33,10.8,44.46,3.7
+CUST0195,Nizwa,Al Dakhiliyah,Regular,39,6.5,67.63,3.9
+CUST0196,Sohar,Al Batinah North,Regular,26,4.1,24.75,3.8
+CUST0197,Nizwa,Al Dakhiliyah,Premium,49,5.8,74.96,4.7
+CUST0198,Seeb,Muscat,Regular,38,10.0,7.52,3.9
+CUST0199,Sohar,Al Batinah North,Regular,31,13.4,24.66,2.8
+CUST0200,Salalah,Dhofar,Regular,31,9.6,30.4,3.5
+CUST0201,Salalah,Dhofar,Premium,30,11.0,48.72,3.5
+CUST0202,Sur,Al Sharqiyah South,Regular,34,11.7,25.06,3.1
+CUST0203,Seeb,Muscat,Premium,25,15.9,63.47,3.2
+CUST0204,Seeb,Muscat,Regular,42,15.2,26.95,2.8
+CUST0205,Seeb,Muscat,Regular,35,15.4,37.15,2.8
+CUST0206,Muscat City,Muscat,Premium,36,13.0,57.0,2.9
+CUST0207,Nizwa,Al Dakhiliyah,Premium,34,14.4,51.88,3.7
+CUST0208,Muscat City,Muscat,Premium,24,11.7,24.54,3.4
+CUST0209,Seeb,Muscat,Business,27,18.5,85.96,2.7
+CUST0210,Sohar,Al Batinah North,Regular,34,9.8,34.32,3.8
+CUST0211,Muscat City,Muscat,Premium,34,11.9,82.26,2.9
+CUST0212,Salalah,Dhofar,Regular,18,6.3,55.4,4.5
+CUST0213,Sur,Al Sharqiyah South,Business,23,9.4,91.47,3.5
+CUST0214,Sur,Al Sharqiyah South,Regular,31,5.7,22.0,3.7
+CUST0215,Salalah,Dhofar,Regular,49,8.5,19.24,3.0
+CUST0216,Sohar,Al Batinah North,Regular,24,9.5,37.69,3.4
+CUST0217,Salalah,Dhofar,Business,36,11.7,65.87,3.5
+CUST0218,Seeb,Muscat,Regular,37,6.4,42.81,3.0
+CUST0219,Sohar,Al Batinah North,Premium,32,15.2,72.0,2.9
+CUST0220,Muscat City,Muscat,Regular,30,16.7,15.69,2.7
+CUST0221,Seeb,Muscat,Regular,63,17.4,46.66,3.0
+CUST0222,Muscat City,Muscat,Regular,59,14.8,27.4,3.1
+CUST0223,Muscat City,Muscat,Regular,40,8.4,34.95,3.1
+CUST0224,Sur,Al Sharqiyah South,Regular,39,10.3,26.41,3.2
+CUST0225,Salalah,Dhofar,Premium,33,9.8,63.54,3.9
+CUST0226,Muscat City,Muscat,Regular,38,14.9,33.56,4.0
+CUST0227,Salalah,Dhofar,Premium,42,8.1,66.32,3.9
+CUST0228,Sur,Al Sharqiyah South,Business,45,11.6,99.63,3.7
+CUST0229,Muscat City,Muscat,Premium,18,9.7,81.8,3.4
+CUST0230,Muscat City,Muscat,Business,30,13.0,118.8,3.8
+CUST0231,Sur,Al Sharqiyah South,Premium,43,10.3,105.79,3.6
+CUST0232,Nizwa,Al Dakhiliyah,Business,51,9.4,58.08,3.2
+CUST0233,Muscat City,Muscat,Regular,30,11.8,72.46,4.0
+CUST0234,Sohar,Al Batinah North,Regular,38,12.0,32.47,3.9
+CUST0235,Muscat City,Muscat,Business,32,15.8,77.69,2.5
+CUST0236,Seeb,Muscat,Regular,45,12.9,25.49,2.1
+CUST0237,Nizwa,Al Dakhiliyah,Regular,30,10.4,21.77,3.1
+CUST0238,Salalah,Dhofar,Regular,28,11.0,69.86,4.0
+CUST0239,Seeb,Muscat,Premium,22,16.2,31.32,3.2
+CUST0240,Salalah,Dhofar,Business,46,8.7,99.66,3.8
+CUST0241,Nizwa,Al Dakhiliyah,Regular,33,11.3,21.83,3.0
+CUST0242,Seeb,Muscat,Regular,34,16.6,32.58,3.5
+CUST0243,Muscat City,Muscat,Premium,44,14.3,55.65,2.6
+CUST0244,Sohar,Al Batinah North,Regular,47,8.0,7.71,3.8
+CUST0245,Salalah,Dhofar,Regular,28,4.4,29.62,3.9
+CUST0246,Seeb,Muscat,Regular,18,8.3,31.18,3.6
+CUST0247,Muscat City,Muscat,Regular,46,12.8,22.25,2.9
+CUST0248,Salalah,Dhofar,Regular,46,13.7,37.45,4.1
+CUST0249,Seeb,Muscat,Regular,25,19.2,6.43,2.8
+CUST0250,Salalah,Dhofar,Regular,29,23.4,5.0,2.1
+CUST0251,Sohar,Al Batinah North,Premium,20,4.2,67.26,3.9
+CUST0252,Nizwa,Al Dakhiliyah,Premium,22,10.0,44.86,3.4
+CUST0253,Sur,Al Sharqiyah South,Regular,21,11.2,33.54,3.2
+CUST0254,Sohar,Al Batinah North,Regular,51,17.9,13.28,3.3
+CUST0255,Sohar,Al Batinah North,Business,70,10.0,80.27,4.4
+CUST0256,Muscat City,Muscat,Regular,35,9.5,37.4,3.4
+CUST0257,Muscat City,Muscat,Regular,24,9.3,40.06,4.3
+CUST0258,Seeb,Muscat,Regular,38,18.2,39.0,3.2
+CUST0259,Salalah,Dhofar,Regular,33,12.7,48.46,3.3
+CUST0260,Seeb,Muscat,Business,45,10.6,65.16,4.3
+CUST0261,Nizwa,Al Dakhiliyah,Regular,36,8.4,5.31,4.0
+CUST0262,Nizwa,Al Dakhiliyah,Regular,52,19.6,19.38,3.2
+CUST0263,Nizwa,Al Dakhiliyah,Regular,26,15.9,5.0,2.7
+CUST0264,Sur,Al Sharqiyah South,Regular,49,9.4,50.21,3.6
+CUST0265,Muscat City,Muscat,Regular,36,12.8,39.91,3.2
+CUST0266,Muscat City,Muscat,Regular,31,15.8,43.48,3.2
+CUST0267,Muscat City,Muscat,Regular,52,14.0,76.67,3.7
+CUST0268,Sohar,Al Batinah North,Business,40,5.1,68.8,4.4
+CUST0269,Seeb,Muscat,Regular,26,12.3,8.42,3.5
+CUST0270,Muscat City,Muscat,Regular,24,15.5,40.24,3.8
+CUST0271,Nizwa,Al Dakhiliyah,Regular,48,1.0,5.0,3.6
+CUST0272,Nizwa,Al Dakhiliyah,Premium,18,9.5,70.68,4.4
+CUST0273,Seeb,Muscat,Regular,18,6.4,32.21,3.2
+CUST0274,Sohar,Al Batinah North,Premium,30,15.4,64.36,1.9
+CUST0275,Muscat City,Muscat,Regular,46,15.4,43.34,3.4
+CUST0276,Muscat City,Muscat,Regular,37,15.6,30.26,3.5
+CUST0277,Seeb,Muscat,Regular,45,17.2,55.06,3.5
+CUST0278,Muscat City,Muscat,Regular,41,19.0,57.71,2.1
+CUST0279,Muscat City,Muscat,Premium,22,13.4,71.11,3.0
+CUST0280,Nizwa,Al Dakhiliyah,Regular,23,6.9,37.01,4.5
+CUST0281,Seeb,Muscat,Premium,33,9.4,46.68,3.8
+CUST0282,Muscat City,Muscat,Premium,18,4.8,41.28,3.6
+CUST0283,Sohar,Al Batinah North,Business,50,9.9,101.75,4.3
+CUST0284,Muscat City,Muscat,Regular,41,10.8,25.1,3.1
+CUST0285,Sur,Al Sharqiyah South,Regular,50,11.8,11.75,3.1
+CUST0286,Salalah,Dhofar,Regular,30,7.2,20.7,3.9
+CUST0287,Salalah,Dhofar,Premium,36,7.8,79.09,3.9
+CUST0288,Sohar,Al Batinah North,Regular,18,10.9,27.67,3.0
+CUST0289,Muscat City,Muscat,Regular,42,13.4,9.12,4.1
+CUST0290,Muscat City,Muscat,Regular,18,13.0,5.0,3.7
+CUST0291,Nizwa,Al Dakhiliyah,Regular,38,12.0,5.0,4.1
+CUST0292,Salalah,Dhofar,Regular,36,12.7,67.08,3.6
+CUST0293,Salalah,Dhofar,Regular,30,10.5,41.91,2.7
+CUST0294,Salalah,Dhofar,Regular,40,6.8,30.23,3.9
+CUST0295,Muscat City,Muscat,Regular,30,6.7,31.33,3.4
+CUST0296,Seeb,Muscat,Premium,37,5.6,69.77,3.4
+CUST0297,Salalah,Dhofar,Regular,24,7.4,24.62,3.1
+CUST0298,Sohar,Al Batinah North,Regular,35,10.1,52.94,3.5
+CUST0299,Seeb,Muscat,Regular,31,18.6,45.65,2.3
+CUST0300,Seeb,Muscat,Regular,31,14.9,58.98,2.0
+CUST0301,Salalah,Dhofar,Premium,32,2.5,39.53,3.9
+CUST0302,Salalah,Dhofar,Regular,37,13.5,5.0,3.4
+CUST0303,Salalah,Dhofar,Premium,45,12.0,26.62,3.4
+CUST0304,Seeb,Muscat,Premium,29,3.0,80.28,4.0
+CUST0305,Muscat City,Muscat,Regular,31,9.0,29.75,3.8
+CUST0306,Sur,Al Sharqiyah South,Regular,27,5.6,14.26,3.8
+CUST0307,Sohar,Al Batinah North,Regular,35,4.0,30.24,3.8
+CUST0308,Nizwa,Al Dakhiliyah,Regular,31,10.8,40.01,4.0
+CUST0309,Muscat City,Muscat,Premium,33,10.7,32.52,4.0
+CUST0310,Salalah,Dhofar,Regular,19,8.3,31.16,4.1
+CUST0311,Salalah,Dhofar,Regular,18,9.9,31.15,3.7
+CUST0312,Salalah,Dhofar,Regular,40,15.2,16.78,2.5
+CUST0313,Sohar,Al Batinah North,Regular,39,12.7,32.7,3.3
+CUST0314,Nizwa,Al Dakhiliyah,Regular,27,13.6,50.88,2.8
+CUST0315,Muscat City,Muscat,Regular,38,16.7,63.51,3.2
+CUST0316,Sur,Al Sharqiyah South,Regular,34,3.1,48.28,3.0
+CUST0317,Seeb,Muscat,Premium,35,11.3,5.0,3.6
+CUST0318,Sohar,Al Batinah North,Premium,27,8.3,57.02,4.2
+CUST0319,Sur,Al Sharqiyah South,Regular,41,5.1,5.0,4.5
+CUST0320,Sohar,Al Batinah North,Regular,37,8.6,25.19,4.2
+CUST0321,Seeb,Muscat,Business,34,15.1,72.42,4.0
+CUST0322,Seeb,Muscat,Regular,34,11.3,31.66,3.4
+CUST0323,Nizwa,Al Dakhiliyah,Regular,30,9.1,22.82,3.6
+CUST0324,Muscat City,Muscat,Premium,35,10.3,43.53,3.7
+CUST0325,Muscat City,Muscat,Regular,30,15.4,62.16,2.7
+CUST0326,Salalah,Dhofar,Regular,31,5.1,32.77,4.1
+CUST0327,Muscat City,Muscat,Premium,38,10.9,78.71,2.8
+CUST0328,Sohar,Al Batinah North,Business,38,15.1,68.96,3.9
+CUST0329,Muscat City,Muscat,Regular,44,10.9,45.27,3.6
+CUST0330,Seeb,Muscat,Premium,38,12.5,87.17,3.7
+CUST0331,Muscat City,Muscat,Regular,36,16.2,48.26,2.8
+CUST0332,Nizwa,Al Dakhiliyah,Business,43,13.2,78.73,4.3
+CUST0333,Muscat City,Muscat,Premium,24,20.7,34.84,2.7
+CUST0334,Muscat City,Muscat,Business,50,9.7,87.38,3.8
+CUST0335,Muscat City,Muscat,Regular,21,10.5,5.64,3.1
+CUST0336,Sur,Al Sharqiyah South,Business,28,9.2,66.64,3.7
+CUST0337,Seeb,Muscat,Regular,27,12.5,30.81,2.5
+CUST0338,Nizwa,Al Dakhiliyah,Regular,37,5.5,51.16,4.0
+CUST0339,Sur,Al Sharqiyah South,Regular,27,11.1,5.0,3.4
+CUST0340,Sohar,Al Batinah North,Regular,51,11.3,15.49,3.5
+CUST0341,Muscat City,Muscat,Premium,33,11.4,66.25,3.1
+CUST0342,Seeb,Muscat,Regular,32,11.4,40.37,3.6
+CUST0343,Nizwa,Al Dakhiliyah,Regular,51,7.3,20.95,3.5
+CUST0344,Muscat City,Muscat,Business,40,14.7,97.41,3.3
+CUST0345,Seeb,Muscat,Premium,26,10.5,54.16,4.2
+CUST0346,Sohar,Al Batinah North,Regular,43,13.7,52.84,3.9
+CUST0347,Seeb,Muscat,Regular,35,6.0,38.38,4.0
+CUST0348,Sohar,Al Batinah North,Business,43,5.9,74.77,4.2
+CUST0349,Salalah,Dhofar,Regular,29,3.4,48.9,3.7
+CUST0350,Sohar,Al Batinah North,Regular,38,18.5,8.58,2.3
+CUST0351,Muscat City,Muscat,Regular,36,17.1,61.93,3.1
+CUST0352,Muscat City,Muscat,Regular,48,19.5,35.66,3.2
+CUST0353,Seeb,Muscat,Business,44,18.1,82.55,3.6
+CUST0354,Sohar,Al Batinah North,Regular,39,2.8,54.33,4.0
+CUST0355,Muscat City,Muscat,Regular,34,17.3,28.12,2.2
+CUST0356,Muscat City,Muscat,Regular,32,21.7,52.48,1.9
+CUST0357,Sohar,Al Batinah North,Premium,47,6.9,50.27,4.1
+CUST0358,Muscat City,Muscat,Regular,24,18.0,5.0,2.5
+CUST0359,Nizwa,Al Dakhiliyah,Premium,40,9.5,57.77,3.1
+CUST0360,Muscat City,Muscat,Premium,35,6.5,41.32,3.3
+CUST0361,Salalah,Dhofar,Regular,60,3.5,5.45,3.5
+CUST0362,Muscat City,Muscat,Regular,38,11.6,42.31,3.2
+CUST0363,Sohar,Al Batinah North,Business,38,6.5,87.71,3.8
+CUST0364,Seeb,Muscat,Premium,34,9.6,61.74,3.9
+CUST0365,Sur,Al Sharqiyah South,Premium,37,7.6,85.15,4.1
+CUST0366,Sur,Al Sharqiyah South,Premium,45,6.4,53.55,4.5
+CUST0367,Salalah,Dhofar,Regular,22,4.8,23.17,3.2
+CUST0368,Salalah,Dhofar,Regular,18,9.7,37.0,4.0
+CUST0369,Muscat City,Muscat,Regular,29,14.4,44.2,3.0
+CUST0370,Sohar,Al Batinah North,Regular,24,16.8,30.59,3.3
+CUST0371,Muscat City,Muscat,Regular,43,6.8,18.45,3.6
+CUST0372,Muscat City,Muscat,Regular,18,8.3,43.62,3.2
+CUST0373,Seeb,Muscat,Regular,50,20.7,27.99,3.1
+CUST0374,Sohar,Al Batinah North,Business,36,3.6,88.91,4.7
+CUST0375,Muscat City,Muscat,Premium,21,17.0,53.63,2.9
+CUST0376,Nizwa,Al Dakhiliyah,Regular,34,15.7,27.32,3.2
+CUST0377,Seeb,Muscat,Regular,20,14.3,58.55,3.1
+CUST0378,Sur,Al Sharqiyah South,Business,41,12.1,65.14,3.2
+CUST0379,Nizwa,Al Dakhiliyah,Regular,44,1.3,40.45,4.7
+CUST0380,Sur,Al Sharqiyah South,Premium,51,10.7,75.5,4.0
+CUST0381,Seeb,Muscat,Premium,20,9.1,50.67,3.3
+CUST0382,Seeb,Muscat,Business,34,1.0,39.45,3.9
+CUST0383,Sur,Al Sharqiyah South,Business,50,6.1,111.36,4.0
+CUST0384,Muscat City,Muscat,Regular,32,13.1,43.78,3.1
+CUST0385,Salalah,Dhofar,Business,35,10.0,64.86,3.2
+CUST0386,Sur,Al Sharqiyah South,Premium,37,7.2,27.04,4.2
+CUST0387,Muscat City,Muscat,Regular,26,13.6,49.25,2.7
+CUST0388,Muscat City,Muscat,Business,50,14.7,62.72,2.3
+CUST0389,Muscat City,Muscat,Regular,37,14.4,5.0,4.0
+CUST0390,Muscat City,Muscat,Regular,22,13.6,28.87,3.2
+CUST0391,Sur,Al Sharqiyah South,Premium,25,9.9,34.87,3.6
+CUST0392,Muscat City,Muscat,Regular,19,3.2,42.68,3.7
+CUST0393,Sohar,Al Batinah North,Premium,22,10.9,61.12,3.1
+CUST0394,Seeb,Muscat,Business,47,6.0,96.15,4.0
+CUST0395,Sohar,Al Batinah North,Business,40,12.0,93.58,4.3
+CUST0396,Seeb,Muscat,Regular,40,9.1,27.54,3.5
+CUST0397,Muscat City,Muscat,Premium,18,12.9,58.29,3.5
+CUST0398,Nizwa,Al Dakhiliyah,Regular,21,13.1,5.5,3.6
+CUST0399,Sohar,Al Batinah North,Regular,35,8.9,22.32,3.8
+CUST0400,Seeb,Muscat,Regular,31,8.9,38.13,2.9
+CUST0401,Salalah,Dhofar,Regular,36,12.2,10.04,3.8
+CUST0402,Salalah,Dhofar,Regular,42,10.4,61.21,3.2
+CUST0403,Seeb,Muscat,Regular,41,2.8,58.54,4.1
+CUST0404,Salalah,Dhofar,Premium,32,8.1,75.63,4.3
+CUST0405,Sohar,Al Batinah North,Business,47,8.3,110.91,4.7
+CUST0406,Sohar,Al Batinah North,Regular,28,14.7,42.06,3.3
+CUST0407,Salalah,Dhofar,Premium,48,17.2,50.12,3.2
+CUST0408,Muscat City,Muscat,Premium,36,15.6,59.76,3.3
+CUST0409,Nizwa,Al Dakhiliyah,Regular,37,3.5,61.62,4.6
+CUST0410,Salalah,Dhofar,Regular,36,15.9,67.77,3.3
+CUST0411,Nizwa,Al Dakhiliyah,Regular,20,4.6,21.51,3.6
+CUST0412,Salalah,Dhofar,Premium,55,1.0,52.34,3.6
+CUST0413,Salalah,Dhofar,Premium,23,13.6,43.5,3.6
+CUST0414,Seeb,Muscat,Regular,33,11.9,44.27,2.7
+CUST0415,Muscat City,Muscat,Regular,25,12.5,49.6,3.4
+CUST0416,Muscat City,Muscat,Business,31,11.2,110.88,3.5
+CUST0417,Muscat City,Muscat,Regular,39,12.9,31.6,3.4
+CUST0418,Nizwa,Al Dakhiliyah,Regular,20,1.0,49.88,4.2
+CUST0419,Seeb,Muscat,Regular,35,16.8,26.36,3.3
+CUST0420,Muscat City,Muscat,Premium,34,6.4,62.31,4.3
+CUST0421,Muscat City,Muscat,Regular,26,14.8,26.77,2.8
+CUST0422,Nizwa,Al Dakhiliyah,Regular,32,8.8,53.55,3.6
+CUST0423,Salalah,Dhofar,Regular,35,16.1,43.47,3.4
+CUST0424,Salalah,Dhofar,Regular,51,14.9,51.09,3.7
+CUST0425,Sohar,Al Batinah North,Regular,47,12.2,46.17,3.5
+CUST0426,Nizwa,Al Dakhiliyah,Premium,42,11.1,78.28,3.3
+CUST0427,Muscat City,Muscat,Regular,32,16.6,30.23,3.3
+CUST0428,Sur,Al Sharqiyah South,Regular,34,14.1,16.44,2.7
+CUST0429,Sohar,Al Batinah North,Business,39,14.4,80.34,4.1
+CUST0430,Seeb,Muscat,Business,43,8.4,85.43,3.5
+CUST0431,Nizwa,Al Dakhiliyah,Regular,18,5.4,45.76,3.8
+CUST0432,Muscat City,Muscat,Regular,34,9.0,52.52,3.2
+CUST0433,Muscat City,Muscat,Regular,31,11.2,5.0,3.0
+CUST0434,Nizwa,Al Dakhiliyah,Regular,40,5.4,51.51,5.0
+CUST0435,Sohar,Al Batinah North,Business,61,19.3,73.16,3.2
+CUST0436,Seeb,Muscat,Regular,29,11.1,19.71,2.6
+CUST0437,Muscat City,Muscat,Premium,20,8.2,64.6,3.6
+CUST0438,Muscat City,Muscat,Regular,25,21.1,63.74,2.8
+CUST0439,Salalah,Dhofar,Regular,37,13.2,21.21,2.9
+CUST0440,Sohar,Al Batinah North,Premium,19,5.8,59.92,3.8
+CUST0441,Salalah,Dhofar,Regular,21,16.6,5.0,2.7
+CUST0442,Sur,Al Sharqiyah South,Premium,32,13.0,72.8,2.9
+CUST0443,Muscat City,Muscat,Regular,40,14.4,40.47,2.8
+CUST0444,Sur,Al Sharqiyah South,Regular,36,14.5,43.24,3.1
+CUST0445,Seeb,Muscat,Regular,35,17.7,36.73,3.1
+CUST0446,Muscat City,Muscat,Premium,21,10.6,53.72,3.6
+CUST0447,Muscat City,Muscat,Regular,19,10.9,49.05,3.1
+CUST0448,Muscat City,Muscat,Regular,36,5.5,57.66,4.1
+CUST0449,Nizwa,Al Dakhiliyah,Business,25,11.1,100.13,4.3
+CUST0450,Sur,Al Sharqiyah South,Regular,43,14.0,43.23,3.5
+CUST0451,Sohar,Al Batinah North,Regular,23,16.0,33.85,3.4
+CUST0452,Muscat City,Muscat,Regular,37,8.6,55.33,3.8
+CUST0453,Sur,Al Sharqiyah South,Regular,45,11.0,43.0,3.7
+CUST0454,Nizwa,Al Dakhiliyah,Regular,40,16.4,34.2,3.4
+CUST0455,Seeb,Muscat,Regular,39,16.7,11.41,2.9
+CUST0456,Sohar,Al Batinah North,Regular,31,5.0,25.42,4.4
+CUST0457,Sohar,Al Batinah North,Regular,44,5.8,18.37,3.6
+CUST0458,Seeb,Muscat,Business,26,13.7,48.34,2.5
+CUST0459,Muscat City,Muscat,Regular,70,10.0,75.85,3.3
+CUST0460,Nizwa,Al Dakhiliyah,Regular,54,16.5,16.89,2.7
+CUST0461,Salalah,Dhofar,Premium,39,9.6,60.43,4.1
+CUST0462,Sohar,Al Batinah North,Premium,22,8.7,37.63,3.5
+CUST0463,Sohar,Al Batinah North,Regular,22,8.7,9.46,4.8
+CUST0464,Salalah,Dhofar,Business,47,8.7,90.15,3.7
+CUST0465,Sohar,Al Batinah North,Premium,28,4.7,61.46,3.5
+CUST0466,Sohar,Al Batinah North,Regular,42,9.1,20.31,4.0
+CUST0467,Seeb,Muscat,Regular,44,6.5,48.03,4.3
+CUST0468,Muscat City,Muscat,Regular,38,11.5,20.31,3.4
+CUST0469,Sohar,Al Batinah North,Premium,41,11.3,56.21,3.2
+CUST0470,Seeb,Muscat,Regular,36,11.2,43.06,3.7
+CUST0471,Muscat City,Muscat,Premium,18,17.3,66.29,2.5
+CUST0472,Seeb,Muscat,Regular,59,8.4,5.0,2.7
+CUST0473,Salalah,Dhofar,Regular,41,6.9,60.19,3.5
+CUST0474,Seeb,Muscat,Regular,32,14.9,20.31,2.2
+CUST0475,Muscat City,Muscat,Regular,51,11.2,24.6,3.3
+CUST0476,Muscat City,Muscat,Regular,22,11.1,51.51,2.7
+CUST0477,Sur,Al Sharqiyah South,Regular,34,9.2,6.51,4.2
+CUST0478,Muscat City,Muscat,Premium,24,16.3,62.61,3.1
+CUST0479,Muscat City,Muscat,Regular,53,19.0,46.63,2.5
+CUST0480,Muscat City,Muscat,Regular,38,12.6,5.81,2.8
+CUST0481,Sohar,Al Batinah North,Regular,40,18.3,27.77,3.4
+CUST0482,Seeb,Muscat,Regular,44,5.6,21.36,3.9
+CUST0483,Sohar,Al Batinah North,Premium,32,8.7,67.87,3.9
+CUST0484,Sohar,Al Batinah North,Regular,22,5.7,37.34,3.6
+CUST0485,Sur,Al Sharqiyah South,Regular,44,8.4,11.55,4.0
+CUST0486,Muscat City,Muscat,Regular,49,14.4,47.08,3.5
+CUST0487,Seeb,Muscat,Business,47,14.4,90.79,3.6
+CUST0488,Muscat City,Muscat,Regular,21,13.1,39.4,3.5
+CUST0489,Salalah,Dhofar,Regular,33,10.3,13.49,3.6
+CUST0490,Salalah,Dhofar,Regular,43,5.2,28.39,3.8
+CUST0491,Sur,Al Sharqiyah South,Regular,33,6.1,42.39,4.5
+CUST0492,Seeb,Muscat,Regular,18,16.2,15.34,2.4
+CUST0493,Sohar,Al Batinah North,Regular,33,12.9,33.14,3.6
+CUST0494,Muscat City,Muscat,Regular,38,11.4,56.46,3.7
+CUST0495,Muscat City,Muscat,Regular,24,10.2,21.98,3.1
+CUST0496,Salalah,Dhofar,Business,29,14.5,121.17,2.9
+CUST0497,Muscat City,Muscat,Premium,34,17.8,59.85,3.2
+CUST0498,Nizwa,Al Dakhiliyah,Regular,47,1.2,24.45,4.2
+CUST0499,Sur,Al Sharqiyah South,Regular,23,8.4,8.89,3.7
+CUST0500,Muscat City,Muscat,Premium,24,16.3,61.22,3.4
+CUST0501,Salalah,Dhofar,Regular,31,5.0,37.68,3.8
+CUST0502,Sur,Al Sharqiyah South,Regular,22,14.7,16.19,3.0
+CUST0503,Sur,Al Sharqiyah South,Business,33,15.9,78.19,2.9
+CUST0504,Sohar,Al Batinah North,Premium,25,4.4,27.31,4.1
+CUST0505,Sohar,Al Batinah North,Regular,18,5.3,36.09,3.7
+CUST0506,Salalah,Dhofar,Regular,32,7.8,41.9,3.4
+CUST0507,Muscat City,Muscat,Business,50,8.9,63.83,3.7
+CUST0508,Sohar,Al Batinah North,Regular,34,8.6,23.87,3.5
+CUST0509,Nizwa,Al Dakhiliyah,Regular,25,19.7,45.76,2.7
+CUST0510,Seeb,Muscat,Regular,48,14.3,24.51,4.2
+CUST0511,Sur,Al Sharqiyah South,Regular,42,6.4,20.5,3.8
+CUST0512,Muscat City,Muscat,Premium,28,7.0,70.76,3.2
+CUST0513,Seeb,Muscat,Business,55,10.9,107.81,3.3
+CUST0514,Muscat City,Muscat,Regular,30,12.6,32.41,3.1
+CUST0515,Nizwa,Al Dakhiliyah,Business,56,9.2,103.02,3.7
+CUST0516,Sur,Al Sharqiyah South,Premium,30,7.9,27.21,3.6
+CUST0517,Sur,Al Sharqiyah South,Premium,38,10.3,48.8,3.2
+CUST0518,Nizwa,Al Dakhiliyah,Regular,33,6.2,41.41,4.4
+CUST0519,Muscat City,Muscat,Regular,45,17.8,39.94,3.2
+CUST0520,Salalah,Dhofar,Regular,22,9.3,43.46,4.0
+CUST0521,Sur,Al Sharqiyah South,Regular,24,5.6,35.09,4.5
+CUST0522,Muscat City,Muscat,Regular,46,11.8,30.42,4.3
+CUST0523,Sur,Al Sharqiyah South,Regular,27,9.8,59.07,4.0
+CUST0524,Seeb,Muscat,Premium,29,1.0,80.07,4.1
+CUST0525,Muscat City,Muscat,Regular,36,17.8,44.34,2.6
+CUST0526,Seeb,Muscat,Premium,39,8.8,30.23,3.6
+CUST0527,Sur,Al Sharqiyah South,Business,37,9.9,124.07,3.6
+CUST0528,Seeb,Muscat,Premium,18,19.2,33.47,3.0
+CUST0529,Nizwa,Al Dakhiliyah,Regular,18,6.6,55.81,4.0
+CUST0530,Salalah,Dhofar,Regular,36,12.2,36.57,3.6
+CUST0531,Nizwa,Al Dakhiliyah,Premium,21,1.0,67.13,4.3
+CUST0532,Seeb,Muscat,Premium,20,7.8,49.61,3.5
+CUST0533,Salalah,Dhofar,Regular,37,17.9,21.49,3.4
+CUST0534,Muscat City,Muscat,Regular,33,9.3,63.87,2.6
+CUST0535,Salalah,Dhofar,Premium,23,17.6,49.99,1.8
+CUST0536,Nizwa,Al Dakhiliyah,Regular,43,5.3,10.99,2.7
+CUST0537,Nizwa,Al Dakhiliyah,Regular,50,7.6,47.24,3.7
+CUST0538,Muscat City,Muscat,Business,43,15.4,94.72,3.0
+CUST0539,Seeb,Muscat,Regular,33,22.2,7.74,2.8
+CUST0540,Seeb,Muscat,Regular,18,9.9,26.78,3.8
+CUST0541,Seeb,Muscat,Regular,24,12.4,52.59,3.9
+CUST0542,Seeb,Muscat,Regular,39,10.3,5.0,4.0
+CUST0543,Sohar,Al Batinah North,Premium,30,18.2,84.95,3.2
+CUST0544,Sur,Al Sharqiyah South,Business,49,8.7,118.55,3.8
+CUST0545,Sohar,Al Batinah North,Regular,58,9.9,30.81,3.4
+CUST0546,Muscat City,Muscat,Premium,37,9.1,73.47,3.1
+CUST0547,Salalah,Dhofar,Business,47,7.2,127.26,3.8
+CUST0548,Seeb,Muscat,Premium,37,10.3,72.69,3.9
+CUST0549,Seeb,Muscat,Regular,53,15.7,69.92,3.4
+CUST0550,Nizwa,Al Dakhiliyah,Regular,39,8.9,29.38,3.9
+CUST0551,Muscat City,Muscat,Regular,18,11.9,29.57,3.5
+CUST0552,Sur,Al Sharqiyah South,Regular,18,10.7,26.13,3.0
+CUST0553,Muscat City,Muscat,Regular,40,10.1,20.86,3.1
+CUST0554,Salalah,Dhofar,Regular,47,14.0,5.0,4.4
+CUST0555,Nizwa,Al Dakhiliyah,Regular,31,12.6,22.77,2.5
+CUST0556,Salalah,Dhofar,Premium,33,8.0,50.94,4.3
+CUST0557,Nizwa,Al Dakhiliyah,Premium,36,11.9,62.87,3.0
+CUST0558,Salalah,Dhofar,Regular,30,7.3,25.6,4.9
+CUST0559,Muscat City,Muscat,Premium,33,15.9,55.44,3.3
+CUST0560,Sohar,Al Batinah North,Business,41,11.2,121.52,3.3
+CUST0561,Seeb,Muscat,Regular,38,15.2,31.01,3.7
+CUST0562,Nizwa,Al Dakhiliyah,Regular,35,14.9,34.52,3.2
+CUST0563,Seeb,Muscat,Regular,28,4.2,56.84,4.6
+CUST0564,Seeb,Muscat,Regular,41,9.2,5.0,4.4
+CUST0565,Seeb,Muscat,Premium,18,13.8,33.22,3.0
+CUST0566,Sohar,Al Batinah North,Regular,33,10.0,12.39,4.0
+CUST0567,Seeb,Muscat,Regular,45,6.0,53.18,3.8
+CUST0568,Nizwa,Al Dakhiliyah,Regular,25,9.7,39.2,3.7
+CUST0569,Nizwa,Al Dakhiliyah,Regular,41,14.2,44.74,2.9
+CUST0570,Salalah,Dhofar,Business,44,9.4,77.38,3.9
+CUST0571,Salalah,Dhofar,Regular,36,11.8,12.23,2.8
+CUST0572,Muscat City,Muscat,Regular,32,18.8,40.79,2.8
+CUST0573,Seeb,Muscat,Regular,21,9.2,18.16,3.3
+CUST0574,Muscat City,Muscat,Regular,33,16.3,38.43,3.2
+CUST0575,Nizwa,Al Dakhiliyah,Premium,33,9.6,66.01,3.8
+CUST0576,Nizwa,Al Dakhiliyah,Regular,44,14.2,18.17,3.3
+CUST0577,Muscat City,Muscat,Regular,37,16.0,35.19,2.7
+CUST0578,Salalah,Dhofar,Premium,18,9.2,46.13,4.1
+CUST0579,Sohar,Al Batinah North,Regular,49,4.9,23.56,4.4
+CUST0580,Salalah,Dhofar,Regular,30,19.0,34.45,3.2
+CUST0581,Sohar,Al Batinah North,Business,38,11.1,74.41,4.5
+CUST0582,Sohar,Al Batinah North,Business,23,15.0,96.53,3.5
+CUST0583,Muscat City,Muscat,Regular,18,12.2,43.39,2.9
+CUST0584,Muscat City,Muscat,Regular,28,15.4,20.66,3.5
+CUST0585,Seeb,Muscat,Regular,23,14.5,36.85,3.9
+CUST0586,Muscat City,Muscat,Premium,33,10.5,63.78,2.9
+CUST0587,Seeb,Muscat,Premium,45,14.9,45.04,3.7
+CUST0588,Muscat City,Muscat,Regular,18,14.2,29.02,3.5
+CUST0589,Seeb,Muscat,Regular,26,9.6,35.15,3.4
+CUST0590,Seeb,Muscat,Regular,28,12.4,46.19,3.5
+CUST0591,Sohar,Al Batinah North,Regular,35,4.9,54.93,3.5
+CUST0592,Muscat City,Muscat,Regular,49,15.9,60.97,2.2
+CUST0593,Nizwa,Al Dakhiliyah,Premium,29,12.4,39.96,3.3
+CUST0594,Nizwa,Al Dakhiliyah,Regular,23,6.1,25.81,3.7
+CUST0595,Sohar,Al Batinah North,Regular,48,13.5,5.0,3.8
+CUST0596,Sohar,Al Batinah North,Premium,42,9.6,49.43,3.4
+CUST0597,Nizwa,Al Dakhiliyah,Regular,36,9.2,42.29,3.7
+CUST0598,Sohar,Al Batinah North,Regular,18,13.7,56.08,4.0
+CUST0599,Muscat City,Muscat,Premium,52,12.4,88.07,3.8
+CUST0600,Muscat City,Muscat,Regular,32,16.0,20.37,2.6
+CUST0601,Muscat City,Muscat,Regular,29,14.3,35.92,2.4
+CUST0602,Muscat City,Muscat,Regular,37,2.9,33.65,3.1
+CUST0603,Salalah,Dhofar,Regular,38,13.9,62.0,4.1
+CUST0604,Salalah,Dhofar,Premium,36,10.4,33.03,3.1
+CUST0605,Sohar,Al Batinah North,Regular,44,5.7,55.36,4.5
+CUST0606,Muscat City,Muscat,Regular,39,8.7,37.34,4.8
+CUST0607,Muscat City,Muscat,Business,38,14.1,101.72,3.1
+CUST0608,Salalah,Dhofar,Regular,52,20.3,87.29,2.9
+CUST0609,Seeb,Muscat,Regular,25,10.0,13.6,2.7
+CUST0610,Muscat City,Muscat,Business,33,8.6,103.97,4.1
+CUST0611,Nizwa,Al Dakhiliyah,Regular,34,8.2,42.62,3.2
+CUST0612,Seeb,Muscat,Premium,18,8.6,80.33,4.5
+CUST0613,Nizwa,Al Dakhiliyah,Regular,18,10.6,16.63,3.6
+CUST0614,Salalah,Dhofar,Regular,33,13.5,14.47,3.2
+CUST0615,Seeb,Muscat,Business,44,11.6,105.13,3.7
+CUST0616,Sohar,Al Batinah North,Regular,40,15.9,57.39,3.2
+CUST0617,Seeb,Muscat,Regular,32,4.3,15.83,4.3
+CUST0618,Sohar,Al Batinah North,Regular,33,10.3,56.92,3.9
+CUST0619,Muscat City,Muscat,Premium,42,13.6,65.11,4.0
+CUST0620,Salalah,Dhofar,Regular,36,7.7,66.36,4.0
+CUST0621,Sohar,Al Batinah North,Regular,51,9.4,30.41,3.5
+CUST0622,Muscat City,Muscat,Premium,30,8.8,44.35,3.5
+CUST0623,Muscat City,Muscat,Regular,21,12.6,67.84,2.8
+CUST0624,Muscat City,Muscat,Regular,24,14.8,61.24,2.7
+CUST0625,Muscat City,Muscat,Regular,36,19.3,45.04,3.1
+CUST0626,Sur,Al Sharqiyah South,Regular,32,10.9,36.27,3.7
+CUST0627,Sohar,Al Batinah North,Regular,19,13.8,5.0,3.7
+CUST0628,Salalah,Dhofar,Regular,35,13.1,56.58,3.5
+CUST0629,Nizwa,Al Dakhiliyah,Regular,23,6.4,5.0,2.8
+CUST0630,Muscat City,Muscat,Premium,18,7.8,66.23,3.6
+CUST0631,Seeb,Muscat,Premium,32,15.8,72.15,2.6
+CUST0632,Muscat City,Muscat,Premium,35,13.8,68.38,2.6
+CUST0633,Salalah,Dhofar,Regular,32,11.6,51.92,3.2
+CUST0634,Muscat City,Muscat,Business,32,7.8,74.65,3.6
+CUST0635,Salalah,Dhofar,Premium,44,6.6,48.94,4.5
+CUST0636,Muscat City,Muscat,Regular,38,10.7,36.49,4.0
+CUST0637,Sohar,Al Batinah North,Regular,18,13.6,31.3,4.1
+CUST0638,Sohar,Al Batinah North,Business,32,5.3,66.25,3.7
+CUST0639,Muscat City,Muscat,Regular,30,10.9,51.03,3.2
+CUST0640,Muscat City,Muscat,Regular,38,13.3,16.5,2.4
+CUST0641,Sohar,Al Batinah North,Regular,28,1.0,29.5,4.1
+CUST0642,Seeb,Muscat,Premium,36,9.5,68.08,3.6
+CUST0643,Muscat City,Muscat,Regular,46,16.8,50.67,2.1
+CUST0644,Seeb,Muscat,Regular,19,10.1,28.5,3.6
+CUST0645,Sohar,Al Batinah North,Regular,55,12.2,47.56,3.9
+CUST0646,Salalah,Dhofar,Regular,44,5.3,35.81,4.0
+CUST0647,Seeb,Muscat,Regular,34,4.8,53.09,3.9
+CUST0648,Muscat City,Muscat,Regular,61,12.9,37.13,2.9
+CUST0649,Muscat City,Muscat,Regular,34,17.9,55.72,3.0
+CUST0650,Seeb,Muscat,Regular,49,11.3,5.0,3.0
+CUST0651,Seeb,Muscat,Regular,43,14.7,47.4,3.5
+CUST0652,Muscat City,Muscat,Premium,40,13.8,77.57,3.6
+CUST0653,Sohar,Al Batinah North,Premium,18,15.2,35.84,3.5
+CUST0654,Sohar,Al Batinah North,Regular,56,7.6,24.94,4.2
+CUST0655,Sohar,Al Batinah North,Business,38,8.2,69.39,4.5
+CUST0656,Muscat City,Muscat,Business,18,8.0,65.43,2.6
+CUST0657,Nizwa,Al Dakhiliyah,Regular,39,15.0,20.27,2.9
+CUST0658,Sohar,Al Batinah North,Premium,37,8.8,47.13,3.1
+CUST0659,Salalah,Dhofar,Business,43,15.4,92.01,3.8
+CUST0660,Seeb,Muscat,Regular,32,5.5,50.42,3.1
+CUST0661,Salalah,Dhofar,Regular,35,2.1,22.73,5.0
+CUST0662,Seeb,Muscat,Regular,38,13.4,24.66,2.4
+CUST0663,Sur,Al Sharqiyah South,Regular,31,13.2,67.9,3.6
+CUST0664,Nizwa,Al Dakhiliyah,Premium,33,14.2,62.99,3.0
+CUST0665,Muscat City,Muscat,Regular,25,13.4,53.47,2.4
+CUST0666,Nizwa,Al Dakhiliyah,Premium,33,14.0,79.55,3.3
+CUST0667,Sohar,Al Batinah North,Regular,44,14.6,9.98,4.1
+CUST0668,Seeb,Muscat,Regular,25,18.2,71.38,3.4
+CUST0669,Seeb,Muscat,Regular,48,21.0,47.53,2.7
+CUST0670,Sur,Al Sharqiyah South,Regular,37,5.7,58.71,4.0
+CUST0671,Seeb,Muscat,Business,54,14.2,80.01,3.5
+CUST0672,Sohar,Al Batinah North,Regular,40,9.9,49.02,3.9
+CUST0673,Sohar,Al Batinah North,Regular,30,7.9,19.01,3.1
+CUST0674,Nizwa,Al Dakhiliyah,Regular,51,8.2,54.7,4.4
+CUST0675,Muscat City,Muscat,Regular,37,17.7,22.5,2.5
+CUST0676,Sohar,Al Batinah North,Business,41,10.3,88.19,4.3
+CUST0677,Muscat City,Muscat,Regular,18,6.7,55.48,3.9
+CUST0678,Seeb,Muscat,Regular,29,17.3,36.28,3.4
+CUST0679,Muscat City,Muscat,Regular,36,9.9,12.8,3.4
+CUST0680,Salalah,Dhofar,Regular,33,20.1,14.13,3.5
+CUST0681,Salalah,Dhofar,Business,45,5.9,77.44,3.3
+CUST0682,Muscat City,Muscat,Regular,28,11.5,40.35,3.6
+CUST0683,Sohar,Al Batinah North,Premium,18,3.7,80.68,4.2
+CUST0684,Muscat City,Muscat,Premium,39,12.6,43.88,3.2
+CUST0685,Nizwa,Al Dakhiliyah,Regular,43,13.7,42.04,3.5
+CUST0686,Seeb,Muscat,Regular,39,10.6,48.48,3.3
+CUST0687,Muscat City,Muscat,Regular,39,14.7,26.34,3.3
+CUST0688,Muscat City,Muscat,Premium,22,12.7,48.99,2.7
+CUST0689,Seeb,Muscat,Regular,33,16.7,47.95,3.2
+CUST0690,Salalah,Dhofar,Regular,47,7.0,55.98,4.0
+CUST0691,Sohar,Al Batinah North,Regular,34,8.8,32.79,3.2
+CUST0692,Nizwa,Al Dakhiliyah,Regular,35,2.8,46.76,4.4
+CUST0693,Nizwa,Al Dakhiliyah,Regular,30,2.9,27.87,4.2
+CUST0694,Salalah,Dhofar,Regular,40,9.8,33.1,3.5
+CUST0695,Seeb,Muscat,Business,58,6.0,92.86,4.0
+CUST0696,Seeb,Muscat,Regular,59,16.0,34.86,2.8
+CUST0697,Salalah,Dhofar,Regular,28,4.5,14.95,4.1
+CUST0698,Sohar,Al Batinah North,Premium,39,15.3,54.42,3.3
+CUST0699,Seeb,Muscat,Regular,40,10.5,83.93,4.3
+CUST0700,Salalah,Dhofar,Premium,32,6.7,62.5,3.7
+CUST0701,Seeb,Muscat,Regular,39,13.3,21.47,2.7
+CUST0702,Muscat City,Muscat,Premium,18,15.7,80.88,3.6
+CUST0703,Nizwa,Al Dakhiliyah,Regular,33,5.3,38.67,4.1
+CUST0704,Salalah,Dhofar,Regular,46,6.5,17.2,2.7
+CUST0705,Sohar,Al Batinah North,Business,47,4.2,72.06,4.1
+CUST0706,Nizwa,Al Dakhiliyah,Regular,33,12.0,14.42,3.2
+CUST0707,Muscat City,Muscat,Business,60,13.4,111.41,3.4
+CUST0708,Nizwa,Al Dakhiliyah,Business,44,9.0,93.09,4.9
+CUST0709,Sur,Al Sharqiyah South,Regular,42,14.2,48.67,2.6
+CUST0710,Muscat City,Muscat,Business,49,10.7,65.58,3.4
+CUST0711,Sohar,Al Batinah North,Regular,40,7.7,42.24,4.0
+CUST0712,Nizwa,Al Dakhiliyah,Regular,44,2.7,37.74,4.5
+CUST0713,Sur,Al Sharqiyah South,Premium,40,3.2,52.06,4.4
+CUST0714,Muscat City,Muscat,Premium,44,15.0,55.06,2.9
+CUST0715,Salalah,Dhofar,Regular,47,6.3,32.84,3.5
+CUST0716,Sohar,Al Batinah North,Regular,62,8.7,27.2,3.5
+CUST0717,Sur,Al Sharqiyah South,Regular,18,13.3,27.9,3.2
+CUST0718,Muscat City,Muscat,Business,37,9.5,107.56,2.7
+CUST0719,Muscat City,Muscat,Premium,45,14.6,83.75,3.0
+CUST0720,Salalah,Dhofar,Business,66,10.9,91.12,3.4
+CUST0721,Sur,Al Sharqiyah South,Business,54,9.0,88.89,3.7
+CUST0722,Sohar,Al Batinah North,Regular,18,14.2,55.18,3.2
+CUST0723,Nizwa,Al Dakhiliyah,Regular,38,9.7,38.4,3.7
+CUST0724,Sohar,Al Batinah North,Regular,38,3.8,36.11,4.6
+CUST0725,Salalah,Dhofar,Regular,33,5.8,53.4,3.7
+CUST0726,Muscat City,Muscat,Business,42,10.5,89.25,3.7
+CUST0727,Muscat City,Muscat,Regular,61,12.9,27.43,2.9
+CUST0728,Nizwa,Al Dakhiliyah,Business,52,8.7,58.53,4.2
+CUST0729,Sur,Al Sharqiyah South,Business,47,10.9,75.18,3.9
+CUST0730,Muscat City,Muscat,Regular,41,19.0,47.29,2.6
+CUST0731,Nizwa,Al Dakhiliyah,Regular,42,8.8,18.22,3.8
+CUST0732,Sohar,Al Batinah North,Regular,41,1.0,23.72,4.5
+CUST0733,Sur,Al Sharqiyah South,Regular,26,3.2,18.15,3.3
+CUST0734,Seeb,Muscat,Premium,56,18.0,58.39,3.3
+CUST0735,Seeb,Muscat,Regular,21,8.0,28.21,2.7
+CUST0736,Muscat City,Muscat,Regular,18,16.7,49.43,2.4
+CUST0737,Nizwa,Al Dakhiliyah,Premium,18,11.9,44.56,4.2
+CUST0738,Nizwa,Al Dakhiliyah,Regular,26,4.4,23.81,4.7
+CUST0739,Salalah,Dhofar,Regular,37,14.8,60.01,3.5
+CUST0740,Salalah,Dhofar,Regular,39,10.6,51.07,3.4
+CUST0741,Muscat City,Muscat,Regular,46,16.8,40.34,2.7
+CUST0742,Seeb,Muscat,Regular,37,14.6,51.55,4.0
+CUST0743,Seeb,Muscat,Regular,29,14.8,41.36,3.2
+CUST0744,Salalah,Dhofar,Regular,34,11.0,15.18,3.4
+CUST0745,Sur,Al Sharqiyah South,Business,37,9.0,97.72,4.0
+CUST0746,Muscat City,Muscat,Regular,48,15.1,42.38,3.5
+CUST0747,Salalah,Dhofar,Premium,26,4.8,60.35,5.0
+CUST0748,Muscat City,Muscat,Regular,45,16.6,21.96,3.5
+CUST0749,Muscat City,Muscat,Regular,34,7.7,14.72,2.9
+CUST0750,Sur,Al Sharqiyah South,Business,35,3.2,81.11,4.9
+CUST0751,Seeb,Muscat,Regular,26,2.4,5.0,2.9
+CUST0752,Salalah,Dhofar,Regular,31,3.7,17.76,4.3
+CUST0753,Seeb,Muscat,Regular,52,10.1,42.7,2.9
+CUST0754,Nizwa,Al Dakhiliyah,Regular,40,8.0,25.89,3.8
+CUST0755,Muscat City,Muscat,Regular,53,7.4,65.1,3.9
+CUST0756,Salalah,Dhofar,Premium,28,11.9,41.32,3.3
+CUST0757,Sur,Al Sharqiyah South,Regular,40,11.6,9.67,2.9
+CUST0758,Muscat City,Muscat,Regular,41,11.3,47.43,3.8
+CUST0759,Nizwa,Al Dakhiliyah,Regular,45,12.4,33.23,4.1
+CUST0760,Seeb,Muscat,Regular,30,9.1,22.73,3.8
+CUST0761,Nizwa,Al Dakhiliyah,Regular,51,10.1,35.23,4.3
+CUST0762,Muscat City,Muscat,Regular,40,6.9,36.42,3.5
+CUST0763,Sohar,Al Batinah North,Regular,35,12.2,23.63,3.2
+CUST0764,Sohar,Al Batinah North,Regular,53,8.3,52.82,3.1
+CUST0765,Muscat City,Muscat,Regular,48,18.8,57.79,3.7
+CUST0766,Sohar,Al Batinah North,Premium,34,10.8,43.35,4.1
+CUST0767,Sur,Al Sharqiyah South,Regular,33,5.7,40.33,3.8
+CUST0768,Seeb,Muscat,Regular,37,15.7,37.85,2.9
+CUST0769,Nizwa,Al Dakhiliyah,Regular,34,5.6,5.0,5.0
+CUST0770,Muscat City,Muscat,Regular,54,11.1,39.64,3.4
+CUST0771,Seeb,Muscat,Business,58,6.2,86.98,4.4
+CUST0772,Salalah,Dhofar,Regular,38,13.1,47.45,2.9
+CUST0773,Nizwa,Al Dakhiliyah,Regular,18,12.9,35.22,2.9
+CUST0774,Salalah,Dhofar,Regular,47,11.0,49.08,3.7
+CUST0775,Salalah,Dhofar,Regular,37,5.0,14.63,4.6
+CUST0776,Salalah,Dhofar,Business,51,6.3,81.92,4.0
+CUST0777,Muscat City,Muscat,Regular,27,14.7,14.74,3.1
+CUST0778,Nizwa,Al Dakhiliyah,Regular,39,5.0,28.25,3.9
+CUST0779,Sur,Al Sharqiyah South,Premium,37,9.2,93.32,4.0
+CUST0780,Salalah,Dhofar,Regular,29,23.1,34.6,2.3
+CUST0781,Nizwa,Al Dakhiliyah,Regular,33,21.9,25.56,2.1
+CUST0782,Sohar,Al Batinah North,Regular,24,13.3,60.85,3.8
+CUST0783,Sohar,Al Batinah North,Business,35,9.9,90.37,3.9
+CUST0784,Muscat City,Muscat,Regular,37,5.1,30.72,4.5
+CUST0785,Nizwa,Al Dakhiliyah,Regular,43,11.7,43.56,3.3
+CUST0786,Muscat City,Muscat,Regular,28,12.5,58.43,3.1
+CUST0787,Muscat City,Muscat,Regular,35,16.9,39.04,2.3
+CUST0788,Sur,Al Sharqiyah South,Regular,18,10.2,50.23,3.1
+CUST0789,Sur,Al Sharqiyah South,Premium,25,9.0,67.96,4.5
+CUST0790,Muscat City,Muscat,Regular,31,19.8,42.96,1.4
+CUST0791,Seeb,Muscat,Business,60,15.9,118.36,2.5
+CUST0792,Muscat City,Muscat,Regular,50,15.2,13.1,2.4
+CUST0793,Seeb,Muscat,Regular,62,14.3,37.67,3.2
+CUST0794,Salalah,Dhofar,Premium,24,7.7,50.63,4.2
+CUST0795,Seeb,Muscat,Regular,40,14.2,25.13,2.8
+CUST0796,Salalah,Dhofar,Premium,42,1.4,52.98,4.3
+CUST0797,Seeb,Muscat,Premium,22,17.0,58.47,4.2
+CUST0798,Sohar,Al Batinah North,Regular,38,12.9,40.92,3.2
+CUST0799,Sur,Al Sharqiyah South,Premium,42,10.4,75.16,3.1
+CUST0800,Muscat City,Muscat,Regular,18,5.0,30.39,3.9
+CUST0801,Sohar,Al Batinah North,Regular,20,13.2,17.87,2.9
+CUST0802,Nizwa,Al Dakhiliyah,Regular,50,13.7,28.62,4.1
+CUST0803,Sohar,Al Batinah North,Regular,40,11.9,40.9,3.5
+CUST0804,Nizwa,Al Dakhiliyah,Regular,41,10.6,37.65,4.0
+CUST0805,Sur,Al Sharqiyah South,Regular,52,4.7,32.23,4.7
+CUST0806,Sur,Al Sharqiyah South,Regular,46,6.3,25.24,4.2
+CUST0807,Seeb,Muscat,Regular,21,9.2,62.7,4.3
+CUST0808,Seeb,Muscat,Business,41,7.6,92.03,2.8
+CUST0809,Sohar,Al Batinah North,Premium,35,8.3,43.63,3.2
+CUST0810,Muscat City,Muscat,Premium,34,18.1,48.07,3.4
+CUST0811,Salalah,Dhofar,Business,25,13.6,111.07,2.9
+CUST0812,Muscat City,Muscat,Regular,41,13.6,14.02,2.9
+CUST0813,Nizwa,Al Dakhiliyah,Regular,38,10.4,26.99,3.5
+CUST0814,Muscat City,Muscat,Regular,41,7.9,42.3,2.8
+CUST0815,Seeb,Muscat,Regular,50,14.6,34.09,1.9
+CUST0816,Sohar,Al Batinah North,Premium,25,10.3,68.76,4.3
+CUST0817,Sohar,Al Batinah North,Premium,37,11.9,59.7,3.1
+CUST0818,Muscat City,Muscat,Premium,29,9.2,80.5,3.0
+CUST0819,Seeb,Muscat,Regular,47,3.3,31.33,4.5
+CUST0820,Sohar,Al Batinah North,Regular,47,7.6,9.59,3.4
+CUST0821,Sohar,Al Batinah North,Regular,29,16.5,36.28,2.9
+CUST0822,Salalah,Dhofar,Regular,30,14.7,5.0,3.2
+CUST0823,Salalah,Dhofar,Regular,50,2.6,77.86,4.1
+CUST0824,Seeb,Muscat,Regular,49,5.1,32.43,3.7
+CUST0825,Muscat City,Muscat,Premium,40,14.0,48.55,2.8
+CUST0826,Muscat City,Muscat,Regular,31,14.1,27.14,3.2
+CUST0827,Muscat City,Muscat,Premium,24,13.3,64.18,3.0
+CUST0828,Sur,Al Sharqiyah South,Business,30,11.0,77.29,2.5
+CUST0829,Muscat City,Muscat,Regular,52,14.9,38.64,3.6
+CUST0830,Muscat City,Muscat,Regular,18,13.5,20.98,2.9
+CUST0831,Muscat City,Muscat,Regular,27,19.8,47.39,2.4
+CUST0832,Sur,Al Sharqiyah South,Regular,48,10.5,19.89,4.1
+CUST0833,Nizwa,Al Dakhiliyah,Regular,25,8.5,30.77,3.7
+CUST0834,Sohar,Al Batinah North,Regular,40,1.0,8.0,3.8
+CUST0835,Salalah,Dhofar,Regular,34,11.4,53.05,3.4
+CUST0836,Nizwa,Al Dakhiliyah,Regular,37,10.0,5.0,3.9
+CUST0837,Sohar,Al Batinah North,Premium,27,6.8,79.13,2.8
+CUST0838,Muscat City,Muscat,Regular,27,17.7,56.78,3.3
+CUST0839,Seeb,Muscat,Business,34,13.4,84.45,3.1
+CUST0840,Seeb,Muscat,Regular,41,10.3,37.65,3.7
+CUST0841,Muscat City,Muscat,Regular,31,5.3,51.0,4.4
+CUST0842,Salalah,Dhofar,Premium,32,9.3,29.09,3.8
+CUST0843,Seeb,Muscat,Regular,23,15.2,21.1,3.3
+CUST0844,Muscat City,Muscat,Regular,49,3.1,35.98,3.4
+CUST0845,Sur,Al Sharqiyah South,Premium,44,9.5,43.6,4.0
+CUST0846,Sohar,Al Batinah North,Regular,33,11.2,28.72,3.8
+CUST0847,Seeb,Muscat,Regular,40,5.9,29.64,3.0
+CUST0848,Seeb,Muscat,Regular,19,11.8,38.09,4.4
+CUST0849,Seeb,Muscat,Premium,41,14.8,42.69,3.0
+CUST0850,Seeb,Muscat,Regular,36,9.9,15.85,3.6
+CUST0851,Muscat City,Muscat,Regular,31,7.7,50.32,3.9
+CUST0852,Muscat City,Muscat,Regular,33,14.5,77.04,3.5
+CUST0853,Muscat City,Muscat,Business,57,11.2,78.66,4.2
+CUST0854,Muscat City,Muscat,Regular,37,12.4,5.0,3.1
+CUST0855,Seeb,Muscat,Premium,33,10.6,72.89,3.4
+CUST0856,Muscat City,Muscat,Premium,40,12.7,43.81,4.0
+CUST0857,Seeb,Muscat,Regular,18,11.5,48.34,3.5
+CUST0858,Seeb,Muscat,Regular,55,6.9,22.03,4.3
+CUST0859,Muscat City,Muscat,Premium,29,18.1,68.96,3.0
+CUST0860,Salalah,Dhofar,Premium,34,13.7,59.14,3.6
+CUST0861,Salalah,Dhofar,Regular,33,15.4,31.18,3.3
+CUST0862,Sohar,Al Batinah North,Premium,19,7.4,58.09,4.1
+CUST0863,Seeb,Muscat,Regular,28,6.6,43.1,3.6
+CUST0864,Seeb,Muscat,Regular,45,8.2,29.15,3.3
+CUST0865,Seeb,Muscat,Regular,44,13.8,27.09,3.6
+CUST0866,Muscat City,Muscat,Premium,27,15.3,68.05,2.9
+CUST0867,Sohar,Al Batinah North,Business,39,6.5,107.3,4.7
+CUST0868,Salalah,Dhofar,Business,27,12.0,76.62,3.9
+CUST0869,Salalah,Dhofar,Regular,27,7.3,18.33,4.2
+CUST0870,Salalah,Dhofar,Regular,19,9.7,58.33,3.4
+CUST0871,Nizwa,Al Dakhiliyah,Regular,19,1.6,14.54,4.0
+CUST0872,Sohar,Al Batinah North,Regular,41,12.3,26.56,3.1
+CUST0873,Nizwa,Al Dakhiliyah,Regular,21,7.2,15.82,3.2
+CUST0874,Sohar,Al Batinah North,Regular,28,9.7,45.44,3.8
+CUST0875,Sohar,Al Batinah North,Premium,24,6.3,37.12,3.0
+CUST0876,Sohar,Al Batinah North,Premium,36,9.6,98.01,4.6
+CUST0877,Muscat City,Muscat,Premium,23,10.7,60.28,3.3
+CUST0878,Sur,Al Sharqiyah South,Regular,44,13.2,26.14,3.4
+CUST0879,Salalah,Dhofar,Regular,41,14.0,48.91,3.6
+CUST0880,Sur,Al Sharqiyah South,Business,39,13.1,97.77,3.2
+CUST0881,Nizwa,Al Dakhiliyah,Regular,18,14.5,29.51,3.2
+CUST0882,Sur,Al Sharqiyah South,Regular,28,6.1,6.42,3.6
+CUST0883,Sohar,Al Batinah North,Premium,34,4.3,73.07,4.5
+CUST0884,Salalah,Dhofar,Regular,38,13.1,66.12,4.0
+CUST0885,Nizwa,Al Dakhiliyah,Regular,43,10.4,12.99,3.2
+CUST0886,Salalah,Dhofar,Premium,46,11.2,52.03,4.2
+CUST0887,Salalah,Dhofar,Premium,37,1.0,41.75,3.9
+CUST0888,Sur,Al Sharqiyah South,Regular,47,14.7,37.8,2.9
+CUST0889,Muscat City,Muscat,Regular,42,17.1,23.78,3.6
+CUST0890,Sur,Al Sharqiyah South,Regular,24,11.2,37.79,2.8
+CUST0891,Sohar,Al Batinah North,Regular,48,11.7,15.71,3.3
+CUST0892,Nizwa,Al Dakhiliyah,Regular,23,5.6,9.67,3.9
+CUST0893,Muscat City,Muscat,Regular,40,16.0,5.0,3.6
+CUST0894,Salalah,Dhofar,Regular,18,13.7,8.61,3.7
+CUST0895,Muscat City,Muscat,Premium,24,18.5,86.7,2.1
+CUST0896,Sohar,Al Batinah North,Regular,19,9.5,33.26,3.2
+CUST0897,Salalah,Dhofar,Business,50,10.2,89.32,3.3
+CUST0898,Seeb,Muscat,Regular,32,9.1,43.41,3.9
+CUST0899,Salalah,Dhofar,Business,33,13.5,85.34,4.0
+CUST0900,Muscat City,Muscat,Regular,48,10.6,23.25,3.0
+CUST0901,Nizwa,Al Dakhiliyah,Regular,31,5.8,46.46,4.3
+CUST0902,Nizwa,Al Dakhiliyah,Regular,19,3.5,34.88,4.8
+CUST0903,Seeb,Muscat,Regular,24,12.4,13.77,3.6
+CUST0904,Salalah,Dhofar,Regular,33,13.0,6.79,2.4
+CUST0905,Nizwa,Al Dakhiliyah,Business,47,12.6,89.39,3.4
+CUST0906,Muscat City,Muscat,Regular,48,14.8,53.55,2.2
+CUST0907,Seeb,Muscat,Premium,28,13.5,54.83,3.7
+CUST0908,Seeb,Muscat,Regular,23,9.0,63.51,3.8
+CUST0909,Nizwa,Al Dakhiliyah,Premium,54,7.5,66.85,3.9
+CUST0910,Muscat City,Muscat,Regular,38,13.7,7.87,2.6
+CUST0911,Nizwa,Al Dakhiliyah,Regular,46,13.5,39.18,3.6
+CUST0912,Sur,Al Sharqiyah South,Business,45,12.5,96.42,3.9
+CUST0913,Seeb,Muscat,Premium,18,12.4,47.81,3.8
+CUST0914,Salalah,Dhofar,Premium,44,15.6,76.91,4.5
+CUST0915,Salalah,Dhofar,Regular,44,6.0,34.87,3.9
+CUST0916,Sur,Al Sharqiyah South,Business,40,10.6,98.36,3.9
+CUST0917,Nizwa,Al Dakhiliyah,Regular,39,11.0,29.58,3.0
+CUST0918,Nizwa,Al Dakhiliyah,Regular,18,8.7,10.05,3.4
+CUST0919,Sohar,Al Batinah North,Business,45,10.7,95.1,4.0
+CUST0920,Sohar,Al Batinah North,Regular,34,12.3,56.67,4.0
+CUST0921,Seeb,Muscat,Regular,59,9.0,28.56,3.8
+CUST0922,Nizwa,Al Dakhiliyah,Business,22,8.3,71.82,4.5
+CUST0923,Muscat City,Muscat,Business,36,21.2,71.68,2.1
+CUST0924,Seeb,Muscat,Regular,22,14.8,5.0,2.8
+CUST0925,Salalah,Dhofar,Regular,18,6.4,11.34,2.8
+CUST0926,Nizwa,Al Dakhiliyah,Business,22,9.3,76.17,3.4
+CUST0927,Seeb,Muscat,Regular,35,11.5,16.78,2.8
+CUST0928,Sohar,Al Batinah North,Regular,24,5.8,55.36,3.4
+CUST0929,Muscat City,Muscat,Regular,31,16.8,59.98,2.8
+CUST0930,Muscat City,Muscat,Premium,55,16.8,32.64,3.1
+CUST0931,Nizwa,Al Dakhiliyah,Regular,50,9.8,22.4,4.4
+CUST0932,Muscat City,Muscat,Regular,32,11.2,25.65,2.1
+CUST0933,Muscat City,Muscat,Regular,45,8.3,42.79,2.8
+CUST0934,Salalah,Dhofar,Business,29,12.4,120.53,4.2
+CUST0935,Muscat City,Muscat,Business,38,12.3,108.29,2.8
+CUST0936,Salalah,Dhofar,Business,50,6.9,57.89,3.9
+CUST0937,Nizwa,Al Dakhiliyah,Regular,37,5.1,51.57,3.9
+CUST0938,Nizwa,Al Dakhiliyah,Regular,44,6.6,5.0,3.3
+CUST0939,Muscat City,Muscat,Regular,46,1.7,73.79,4.3
+CUST0940,Muscat City,Muscat,Regular,54,10.6,77.57,2.4
+CUST0941,Salalah,Dhofar,Premium,44,14.8,40.85,3.0
+CUST0942,Muscat City,Muscat,Premium,46,12.1,70.92,3.3
+CUST0943,Salalah,Dhofar,Regular,30,8.2,53.25,3.8
+CUST0944,Muscat City,Muscat,Regular,35,21.0,27.53,2.2
+CUST0945,Nizwa,Al Dakhiliyah,Regular,30,3.5,53.8,4.0
+CUST0946,Nizwa,Al Dakhiliyah,Regular,23,5.6,64.28,4.1
+CUST0947,Muscat City,Muscat,Regular,18,10.6,25.54,2.2
+CUST0948,Nizwa,Al Dakhiliyah,Premium,43,15.6,65.91,3.6
+CUST0949,Seeb,Muscat,Regular,37,15.8,10.99,3.5
+CUST0950,Muscat City,Muscat,Premium,32,16.7,44.85,2.9
+CUST0951,Muscat City,Muscat,Premium,27,21.6,82.34,2.8
+CUST0952,Seeb,Muscat,Regular,39,9.4,27.79,3.5
+CUST0953,Sur,Al Sharqiyah South,Premium,32,6.9,61.04,3.9
+CUST0954,Muscat City,Muscat,Premium,39,12.1,59.01,3.2
+CUST0955,Muscat City,Muscat,Regular,52,12.9,23.47,3.2
+CUST0956,Sohar,Al Batinah North,Regular,34,9.8,52.82,3.8
+CUST0957,Sohar,Al Batinah North,Regular,32,9.4,51.1,3.7
+CUST0958,Sohar,Al Batinah North,Regular,30,2.3,16.01,4.9
+CUST0959,Seeb,Muscat,Regular,18,15.5,20.49,2.6
+CUST0960,Salalah,Dhofar,Premium,39,7.0,36.41,3.6
+CUST0961,Salalah,Dhofar,Regular,49,15.3,16.22,3.2
+CUST0962,Seeb,Muscat,Premium,52,11.8,67.55,4.0
+CUST0963,Muscat City,Muscat,Regular,44,16.9,35.44,3.2
+CUST0964,Seeb,Muscat,Regular,49,4.3,32.53,4.2
+CUST0965,Seeb,Muscat,Regular,40,9.8,29.07,4.3
+CUST0966,Sohar,Al Batinah North,Regular,24,11.7,49.17,3.9
+CUST0967,Seeb,Muscat,Regular,30,15.6,55.54,2.7
+CUST0968,Sur,Al Sharqiyah South,Business,39,10.1,67.2,3.2
+CUST0969,Muscat City,Muscat,Regular,32,9.1,57.77,4.1
+CUST0970,Sur,Al Sharqiyah South,Regular,27,11.1,45.86,4.2
+CUST0971,Seeb,Muscat,Regular,24,19.1,37.78,3.5
+CUST0972,Salalah,Dhofar,Regular,29,8.2,58.39,2.8
+CUST0973,Muscat City,Muscat,Premium,55,7.4,53.64,3.6
+CUST0974,Seeb,Muscat,Regular,47,9.9,54.97,3.5
+CUST0975,Nizwa,Al Dakhiliyah,Regular,54,8.3,30.93,4.9
+CUST0976,Nizwa,Al Dakhiliyah,Regular,44,4.2,5.0,4.3
+CUST0977,Muscat City,Muscat,Regular,24,14.8,83.69,2.4
+CUST0978,Muscat City,Muscat,Regular,30,10.6,53.2,3.5
+CUST0979,Seeb,Muscat,Premium,53,6.5,80.49,3.7
+CUST0980,Muscat City,Muscat,Regular,49,8.9,12.31,3.7
+CUST0981,Sohar,Al Batinah North,Regular,28,3.3,47.92,4.6
+CUST0982,Sohar,Al Batinah North,Premium,61,8.1,49.92,3.3
+CUST0983,Nizwa,Al Dakhiliyah,Regular,38,6.7,30.62,4.1
+CUST0984,Sohar,Al Batinah North,Regular,52,13.9,51.69,3.0
+CUST0985,Seeb,Muscat,Regular,38,12.7,20.82,3.8
+CUST0986,Seeb,Muscat,Regular,34,12.8,40.87,3.8
+CUST0987,Sur,Al Sharqiyah South,Regular,31,11.0,69.07,3.6
+CUST0988,Sohar,Al Batinah North,Regular,70,14.7,19.67,3.1
+CUST0989,Sohar,Al Batinah North,Regular,25,17.1,45.01,3.6
+CUST0990,Muscat City,Muscat,Regular,23,11.4,60.88,4.0
+CUST0991,Muscat City,Muscat,Regular,26,9.3,73.73,3.7
+CUST0992,Seeb,Muscat,Regular,30,15.6,8.2,3.1
+CUST0993,Sohar,Al Batinah North,Regular,37,5.5,47.18,3.9
+CUST0994,Salalah,Dhofar,Regular,49,7.9,5.0,4.2
+CUST0995,Nizwa,Al Dakhiliyah,Business,38,12.8,98.76,3.3
+CUST0996,Sohar,Al Batinah North,Regular,42,3.8,48.55,3.6
+CUST0997,Muscat City,Muscat,Regular,49,6.7,58.67,4.0
+CUST0998,Sohar,Al Batinah North,Regular,24,11.1,58.72,3.9
+CUST0999,Salalah,Dhofar,Premium,30,17.3,47.25,3.4
+CUST1000,Sur,Al Sharqiyah South,Premium,23,8.6,62.63,4.3
+CUST1001,Salalah,Dhofar,Regular,41,10.3,52.55,4.6
+CUST1002,Salalah,Dhofar,Premium,39,8.1,85.27,3.3
+CUST1003,Muscat City,Muscat,Premium,35,17.8,90.94,2.1
+CUST1004,Muscat City,Muscat,Premium,26,18.3,60.0,2.0
+CUST1005,Seeb,Muscat,Regular,41,13.5,65.93,4.0
+CUST1006,Muscat City,Muscat,Regular,45,15.7,37.41,3.4
+CUST1007,Muscat City,Muscat,Business,37,12.7,84.56,2.7
+CUST1008,Seeb,Muscat,Regular,18,14.1,56.21,3.2
+CUST1009,Seeb,Muscat,Regular,30,20.9,21.8,2.3
+CUST1010,Salalah,Dhofar,Regular,18,10.1,5.0,3.6
+CUST1011,Sohar,Al Batinah North,Business,46,11.3,91.29,3.5
+CUST1012,Sohar,Al Batinah North,Regular,29,8.0,5.0,3.2
+CUST1013,Sohar,Al Batinah North,Regular,23,16.7,49.51,3.3
+CUST1014,Nizwa,Al Dakhiliyah,Regular,47,10.2,17.49,2.9
+CUST1015,Sohar,Al Batinah North,Premium,27,5.1,79.8,3.3
+CUST1016,Sur,Al Sharqiyah South,Regular,35,13.2,32.62,3.1
+CUST1017,Seeb,Muscat,Regular,42,8.6,28.3,3.8
+CUST1018,Muscat City,Muscat,Regular,43,14.8,21.21,3.8
+CUST1019,Sohar,Al Batinah North,Regular,28,13.4,5.0,3.0
+CUST1020,Muscat City,Muscat,Regular,30,13.8,5.0,3.4
+CUST1021,Sohar,Al Batinah North,Regular,59,14.0,36.22,4.1
+CUST1022,Muscat City,Muscat,Regular,41,14.6,41.36,3.1
+CUST1023,Nizwa,Al Dakhiliyah,Regular,23,5.4,26.43,4.0
+CUST1024,Muscat City,Muscat,Regular,38,13.5,32.48,2.8
+CUST1025,Sohar,Al Batinah North,Regular,24,12.3,59.85,2.8
+CUST1026,Salalah,Dhofar,Premium,38,9.6,62.08,3.5
+CUST1027,Seeb,Muscat,Regular,34,9.3,59.55,4.2
+CUST1028,Muscat City,Muscat,Regular,36,27.1,40.89,2.7
+CUST1029,Sur,Al Sharqiyah South,Regular,30,7.0,34.59,4.0
+CUST1030,Sohar,Al Batinah North,Business,26,9.8,83.91,4.1
+CUST1031,Muscat City,Muscat,Premium,32,4.3,73.57,3.0
+CUST1032,Muscat City,Muscat,Regular,33,6.5,10.76,3.2
+CUST1033,Muscat City,Muscat,Regular,39,7.4,68.49,4.4
+CUST1034,Muscat City,Muscat,Regular,24,15.8,28.59,2.9
+CUST1035,Seeb,Muscat,Regular,40,8.1,43.17,4.2
+CUST1036,Sohar,Al Batinah North,Regular,39,11.8,27.94,3.6
+CUST1037,Sur,Al Sharqiyah South,Regular,30,1.0,5.0,4.0
+CUST1038,Seeb,Muscat,Regular,36,24.1,50.26,3.1
+CUST1039,Seeb,Muscat,Regular,30,7.2,34.89,4.4
+CUST1040,Seeb,Muscat,Regular,25,12.1,44.47,4.0
+CUST1041,Seeb,Muscat,Business,18,15.0,91.95,3.3
+CUST1042,Seeb,Muscat,Regular,35,13.4,22.19,2.9
+CUST1043,Muscat City,Muscat,Regular,18,8.4,69.51,3.2
+CUST1044,Nizwa,Al Dakhiliyah,Business,37,14.7,92.74,4.4
+CUST1045,Muscat City,Muscat,Regular,31,20.2,54.45,2.2
+CUST1046,Sohar,Al Batinah North,Regular,45,5.3,33.49,3.6
+CUST1047,Sur,Al Sharqiyah South,Regular,45,5.2,32.44,3.8
+CUST1048,Seeb,Muscat,Regular,26,11.8,34.79,2.4
+CUST1049,Sur,Al Sharqiyah South,Regular,28,8.5,15.58,3.9
+CUST1050,Sohar,Al Batinah North,Regular,52,12.1,17.67,3.5
+CUST1051,Sur,Al Sharqiyah South,Regular,28,8.1,32.57,3.0
+CUST1052,Muscat City,Muscat,Regular,37,16.3,14.54,2.8
+CUST1053,Seeb,Muscat,Premium,52,3.4,82.76,3.4
+CUST1054,Muscat City,Muscat,Regular,32,14.3,24.34,2.7
+CUST1055,Sohar,Al Batinah North,Regular,32,9.5,39.22,3.2
+CUST1056,Seeb,Muscat,Regular,40,10.4,29.66,4.3
+CUST1057,Seeb,Muscat,Regular,19,8.5,29.28,3.8
+CUST1058,Sohar,Al Batinah North,Regular,40,9.9,33.82,3.6
+CUST1059,Muscat City,Muscat,Premium,36,8.4,116.52,3.7
+CUST1060,Muscat City,Muscat,Regular,35,11.5,54.39,2.8
+CUST1061,Sur,Al Sharqiyah South,Regular,44,11.6,23.73,3.3
+CUST1062,Muscat City,Muscat,Regular,38,17.0,34.74,2.7
+CUST1063,Muscat City,Muscat,Premium,32,13.2,52.5,3.6
+CUST1064,Sur,Al Sharqiyah South,Regular,45,5.1,54.69,4.1
+CUST1065,Sur,Al Sharqiyah South,Regular,41,15.7,35.85,3.4
+CUST1066,Seeb,Muscat,Premium,37,13.7,65.17,3.0
+CUST1067,Salalah,Dhofar,Regular,45,13.1,30.02,2.7
+CUST1068,Sohar,Al Batinah North,Premium,29,12.9,44.48,2.3
+CUST1069,Seeb,Muscat,Regular,54,9.4,30.77,3.4
+CUST1070,Seeb,Muscat,Business,24,9.7,116.27,3.2
+CUST1071,Muscat City,Muscat,Business,38,16.4,72.39,2.4
+CUST1072,Muscat City,Muscat,Regular,44,8.6,35.2,4.0
+CUST1073,Sohar,Al Batinah North,Regular,37,12.1,19.62,3.5
+CUST1074,Salalah,Dhofar,Premium,33,15.3,53.86,3.7
+CUST1075,Nizwa,Al Dakhiliyah,Regular,45,3.5,26.94,4.0
+CUST1076,Muscat City,Muscat,Business,41,12.6,83.23,2.8
+CUST1077,Sur,Al Sharqiyah South,Regular,38,3.9,25.74,4.4
+CUST1078,Sohar,Al Batinah North,Regular,43,6.5,36.71,3.5
+CUST1079,Nizwa,Al Dakhiliyah,Regular,45,1.1,5.0,4.6
+CUST1080,Nizwa,Al Dakhiliyah,Regular,37,19.5,5.0,2.6
+CUST1081,Muscat City,Muscat,Premium,46,18.5,59.05,2.4
+CUST1082,Nizwa,Al Dakhiliyah,Regular,48,15.3,5.0,2.9
+CUST1083,Muscat City,Muscat,Regular,18,12.3,35.82,3.3
+CUST1084,Muscat City,Muscat,Regular,44,11.9,31.18,3.2
+CUST1085,Sur,Al Sharqiyah South,Regular,24,9.4,6.07,3.7
+CUST1086,Salalah,Dhofar,Premium,38,9.9,47.36,3.8
+CUST1087,Seeb,Muscat,Regular,18,6.6,69.43,3.5
+CUST1088,Muscat City,Muscat,Regular,34,18.1,20.78,3.7
+CUST1089,Sohar,Al Batinah North,Premium,33,11.9,73.55,3.5
+CUST1090,Salalah,Dhofar,Premium,46,11.4,38.09,3.3
+CUST1091,Muscat City,Muscat,Premium,53,14.6,50.8,2.3
+CUST1092,Muscat City,Muscat,Regular,44,16.4,32.73,2.7
+CUST1093,Seeb,Muscat,Regular,26,15.6,28.81,2.8
+CUST1094,Sur,Al Sharqiyah South,Regular,63,4.4,53.85,4.9
+CUST1095,Sur,Al Sharqiyah South,Regular,30,3.1,26.04,3.4
+CUST1096,Muscat City,Muscat,Business,41,14.5,100.48,2.1
+CUST1097,Seeb,Muscat,Premium,25,14.1,72.86,2.5
+CUST1098,Sohar,Al Batinah North,Regular,27,10.6,11.52,2.9
+CUST1099,Seeb,Muscat,Regular,21,15.1,35.37,3.4
+CUST1100,Salalah,Dhofar,Business,39,6.6,91.92,3.7
+CUST1101,Muscat City,Muscat,Regular,35,21.8,49.11,3.1
+CUST1102,Muscat City,Muscat,Regular,66,11.2,20.23,3.7
+CUST1103,Muscat City,Muscat,Regular,31,12.6,15.25,3.2
+CUST1104,Seeb,Muscat,Regular,26,11.3,5.98,3.2
+CUST1105,Nizwa,Al Dakhiliyah,Premium,22,9.2,70.63,2.9
+CUST1106,Muscat City,Muscat,Regular,35,11.5,31.68,3.4
+CUST1107,Salalah,Dhofar,Premium,28,6.8,72.7,3.6
+CUST1108,Muscat City,Muscat,Premium,34,9.1,60.5,4.3
+CUST1109,Muscat City,Muscat,Regular,33,10.6,38.07,3.9
+CUST1110,Muscat City,Muscat,Premium,31,12.3,79.79,4.3
+CUST1111,Muscat City,Muscat,Regular,23,14.4,52.73,3.1
+CUST1112,Muscat City,Muscat,Business,53,24.2,73.07,2.5
+CUST1113,Nizwa,Al Dakhiliyah,Regular,47,12.4,34.95,3.5
+CUST1114,Seeb,Muscat,Regular,32,17.0,20.17,2.6
+CUST1115,Sohar,Al Batinah North,Regular,30,15.3,29.23,4.0
+CUST1116,Salalah,Dhofar,Business,45,6.5,94.82,4.3
+CUST1117,Nizwa,Al Dakhiliyah,Business,31,9.8,82.5,3.2
+CUST1118,Nizwa,Al Dakhiliyah,Business,32,16.4,44.49,3.4
+CUST1119,Seeb,Muscat,Regular,44,8.6,35.06,3.4
+CUST1120,Muscat City,Muscat,Regular,40,16.1,10.71,4.7
+CUST1121,Sur,Al Sharqiyah South,Regular,35,16.8,26.94,3.1
+CUST1122,Muscat City,Muscat,Regular,35,18.9,23.38,2.7
+CUST1123,Seeb,Muscat,Regular,29,7.9,65.74,4.3
+CUST1124,Nizwa,Al Dakhiliyah,Business,36,5.8,85.89,3.2
+CUST1125,Sohar,Al Batinah North,Premium,48,17.3,92.58,3.1
+CUST1126,Salalah,Dhofar,Regular,41,10.7,48.26,3.5
+CUST1127,Nizwa,Al Dakhiliyah,Regular,39,1.0,12.95,4.3
+CUST1128,Muscat City,Muscat,Regular,27,14.7,41.29,3.9
+CUST1129,Seeb,Muscat,Regular,43,11.7,44.21,2.7
+CUST1130,Sohar,Al Batinah North,Premium,36,7.9,37.01,4.3
+CUST1131,Sohar,Al Batinah North,Regular,45,3.0,27.2,2.9
+CUST1132,Sohar,Al Batinah North,Regular,18,17.8,26.34,2.8
+CUST1133,Muscat City,Muscat,Regular,47,16.1,46.21,3.2
+CUST1134,Sur,Al Sharqiyah South,Regular,33,6.5,5.0,3.7
+CUST1135,Muscat City,Muscat,Regular,37,10.3,12.36,3.8
+CUST1136,Muscat City,Muscat,Regular,34,17.0,50.98,2.5
+CUST1137,Salalah,Dhofar,Regular,31,6.7,37.55,4.0
+CUST1138,Muscat City,Muscat,Regular,42,18.3,58.09,2.6
+CUST1139,Sur,Al Sharqiyah South,Regular,44,14.6,28.65,2.4
+CUST1140,Salalah,Dhofar,Regular,27,7.8,60.6,4.5
+CUST1141,Nizwa,Al Dakhiliyah,Regular,38,12.1,35.6,4.1
+CUST1142,Sohar,Al Batinah North,Premium,29,8.8,72.51,3.8
+CUST1143,Seeb,Muscat,Business,40,9.7,87.18,3.9
+CUST1144,Muscat City,Muscat,Business,69,12.5,89.91,3.4
+CUST1145,Sohar,Al Batinah North,Premium,18,1.0,73.96,4.3
+CUST1146,Muscat City,Muscat,Regular,38,17.2,62.29,3.4
+CUST1147,Muscat City,Muscat,Regular,34,8.3,23.33,3.5
+CUST1148,Muscat City,Muscat,Premium,47,11.5,31.65,3.2
+CUST1149,Seeb,Muscat,Premium,36,12.9,70.08,2.7
+CUST1150,Muscat City,Muscat,Regular,51,2.7,62.6,4.7
+CUST1151,Sur,Al Sharqiyah South,Regular,29,10.7,42.61,3.8
+CUST1152,Seeb,Muscat,Regular,20,9.4,55.2,3.3
+CUST1153,Nizwa,Al Dakhiliyah,Premium,37,8.3,14.64,4.0
+CUST1154,Nizwa,Al Dakhiliyah,Regular,40,4.8,25.64,4.8
+CUST1155,Seeb,Muscat,Premium,28,3.8,73.3,3.4
+CUST1156,Sur,Al Sharqiyah South,Regular,40,12.2,54.52,3.9
+CUST1157,Seeb,Muscat,Regular,30,19.6,44.09,2.5
+CUST1158,Muscat City,Muscat,Regular,50,20.0,27.54,2.8
+CUST1159,Muscat City,Muscat,Premium,28,11.7,69.25,3.0
+CUST1160,Sur,Al Sharqiyah South,Regular,51,8.1,43.92,3.3
+CUST1161,Seeb,Muscat,Regular,37,7.3,43.25,4.4
+CUST1162,Sur,Al Sharqiyah South,Regular,50,3.5,9.2,4.8
+CUST1163,Muscat City,Muscat,Premium,31,12.5,55.4,4.0
+CUST1164,Salalah,Dhofar,Regular,24,6.5,55.75,3.4
+CUST1165,Sohar,Al Batinah North,Premium,39,2.4,52.7,3.6
+CUST1166,Seeb,Muscat,Regular,29,14.7,43.75,2.3
+CUST1167,Seeb,Muscat,Regular,18,11.9,30.81,3.2
+CUST1168,Nizwa,Al Dakhiliyah,Premium,31,7.4,29.12,5.0
+CUST1169,Muscat City,Muscat,Premium,45,16.6,86.82,3.1
+CUST1170,Muscat City,Muscat,Regular,39,17.8,43.17,2.8
+CUST1171,Sohar,Al Batinah North,Regular,24,10.9,44.84,4.1
+CUST1172,Muscat City,Muscat,Regular,40,13.2,5.0,3.1
+CUST1173,Nizwa,Al Dakhiliyah,Regular,38,12.4,8.36,2.7
+CUST1174,Sohar,Al Batinah North,Business,51,10.8,120.82,3.4
+CUST1175,Nizwa,Al Dakhiliyah,Regular,41,2.6,55.0,3.4
+CUST1176,Nizwa,Al Dakhiliyah,Regular,48,5.4,39.89,3.7
+CUST1177,Salalah,Dhofar,Premium,34,6.5,63.21,4.5
+CUST1178,Sur,Al Sharqiyah South,Regular,47,3.3,25.19,4.1
+CUST1179,Salalah,Dhofar,Regular,39,6.5,45.44,4.1
+CUST1180,Salalah,Dhofar,Regular,36,9.5,49.08,3.7
+CUST1181,Muscat City,Muscat,Regular,35,9.2,5.0,4.2
+CUST1182,Sur,Al Sharqiyah South,Business,51,11.5,99.98,3.0
+CUST1183,Muscat City,Muscat,Regular,33,9.0,47.56,4.2
+CUST1184,Nizwa,Al Dakhiliyah,Premium,18,11.2,55.42,4.4
+CUST1185,Salalah,Dhofar,Regular,22,14.6,33.07,3.0
+CUST1186,Nizwa,Al Dakhiliyah,Regular,56,5.7,16.23,3.4
+CUST1187,Muscat City,Muscat,Regular,31,16.6,37.25,2.9
+CUST1188,Sur,Al Sharqiyah South,Regular,33,3.4,28.02,3.2
+CUST1189,Muscat City,Muscat,Business,53,11.5,87.3,3.4
+CUST1190,Muscat City,Muscat,Regular,18,10.7,5.0,3.2
+CUST1191,Muscat City,Muscat,Business,43,10.4,60.16,3.2
+CUST1192,Sohar,Al Batinah North,Regular,33,8.0,24.11,3.7
+CUST1193,Muscat City,Muscat,Regular,37,10.2,43.57,2.7
+CUST1194,Sur,Al Sharqiyah South,Regular,22,7.7,31.43,3.9
+CUST1195,Seeb,Muscat,Regular,46,7.3,46.05,2.9
+CUST1196,Seeb,Muscat,Business,27,10.2,82.14,3.4
+CUST1197,Muscat City,Muscat,Premium,27,14.0,77.41,3.0
+CUST1198,Nizwa,Al Dakhiliyah,Regular,25,5.7,33.35,3.6
+CUST1199,Sur,Al Sharqiyah South,Regular,45,10.2,36.82,3.0
+CUST1200,Salalah,Dhofar,Regular,34,3.5,20.26,4.0
+CUST1201,Muscat City,Muscat,Premium,31,19.0,57.14,3.2
+CUST1202,Muscat City,Muscat,Regular,43,8.7,25.12,4.3
+CUST1203,Seeb,Muscat,Regular,23,10.9,41.46,3.1
+CUST1204,Salalah,Dhofar,Regular,22,7.2,56.7,3.5
+CUST1205,Muscat City,Muscat,Regular,32,17.3,52.97,3.2
+CUST1206,Muscat City,Muscat,Premium,21,18.5,43.15,2.5
+CUST1207,Muscat City,Muscat,Business,50,14.2,97.38,4.0
+CUST1208,Seeb,Muscat,Regular,20,11.0,44.56,4.2
+CUST1209,Sohar,Al Batinah North,Regular,43,6.4,44.02,3.8
+CUST1210,Muscat City,Muscat,Regular,28,14.7,59.36,3.2
+CUST1211,Nizwa,Al Dakhiliyah,Regular,37,8.4,26.64,3.2
+CUST1212,Seeb,Muscat,Business,49,14.5,102.43,4.6
+CUST1213,Salalah,Dhofar,Premium,35,9.4,37.83,4.1
+CUST1214,Sohar,Al Batinah North,Regular,18,10.0,15.13,4.2
+CUST1215,Muscat City,Muscat,Regular,48,16.4,66.61,3.5
+CUST1216,Salalah,Dhofar,Regular,24,3.0,15.67,4.2
+CUST1217,Sur,Al Sharqiyah South,Regular,36,12.5,36.7,3.7
+CUST1218,Muscat City,Muscat,Regular,70,12.8,27.93,2.9
+CUST1219,Nizwa,Al Dakhiliyah,Regular,28,9.0,33.02,3.8
+CUST1220,Sur,Al Sharqiyah South,Regular,23,15.3,30.23,3.2
+CUST1221,Muscat City,Muscat,Regular,18,21.5,32.45,2.8
+CUST1222,Seeb,Muscat,Regular,36,10.3,45.44,3.9
+CUST1223,Muscat City,Muscat,Premium,30,14.5,85.2,3.4
+CUST1224,Muscat City,Muscat,Regular,45,11.1,38.61,3.1
+CUST1225,Nizwa,Al Dakhiliyah,Regular,39,8.3,46.53,4.1
+CUST1226,Muscat City,Muscat,Regular,22,19.1,34.29,2.0
+CUST1227,Sohar,Al Batinah North,Regular,48,6.9,26.54,4.3
+CUST1228,Muscat City,Muscat,Regular,30,15.8,16.82,2.5
+CUST1229,Sohar,Al Batinah North,Premium,35,7.7,40.47,3.9
+CUST1230,Salalah,Dhofar,Premium,36,12.1,62.14,4.0
+CUST1231,Muscat City,Muscat,Regular,47,6.9,31.61,2.7
+CUST1232,Nizwa,Al Dakhiliyah,Regular,31,9.7,19.34,2.6
+CUST1233,Salalah,Dhofar,Regular,44,9.0,62.24,4.1
+CUST1234,Muscat City,Muscat,Regular,28,18.4,45.99,2.6
+CUST1235,Muscat City,Muscat,Regular,38,17.1,23.48,2.9
+CUST1236,Sohar,Al Batinah North,Regular,52,5.9,26.34,3.8
+CUST1237,Muscat City,Muscat,Premium,39,12.1,49.15,3.1
+CUST1238,Seeb,Muscat,Regular,35,17.4,44.26,2.8
+CUST1239,Muscat City,Muscat,Business,31,18.0,104.0,2.4
+CUST1240,Muscat City,Muscat,Regular,23,10.2,61.7,3.9
+CUST1241,Muscat City,Muscat,Regular,39,9.3,59.85,3.2
+CUST1242,Muscat City,Muscat,Regular,32,19.8,5.0,2.6
+CUST1243,Sohar,Al Batinah North,Regular,30,9.6,12.44,3.6
+CUST1244,Seeb,Muscat,Premium,33,20.5,70.39,2.7
+CUST1245,Sur,Al Sharqiyah South,Premium,33,1.0,35.09,3.4
+CUST1246,Sohar,Al Batinah North,Regular,30,13.5,10.97,3.1
+CUST1247,Seeb,Muscat,Business,29,13.0,80.01,3.7
+CUST1248,Nizwa,Al Dakhiliyah,Premium,43,4.6,47.63,5.0
+CUST1249,Muscat City,Muscat,Premium,32,6.2,75.35,4.0
+CUST1250,Sohar,Al Batinah North,Business,46,12.2,84.9,3.7
+CUST1251,Sohar,Al Batinah North,Regular,45,10.7,26.0,3.6
+CUST1252,Sohar,Al Batinah North,Regular,27,8.4,46.14,4.3
+CUST1253,Salalah,Dhofar,Business,36,5.7,66.75,3.9
+CUST1254,Seeb,Muscat,Regular,44,14.5,34.3,2.5
+CUST1255,Salalah,Dhofar,Regular,60,9.9,34.04,2.4
+CUST1256,Muscat City,Muscat,Regular,18,13.5,50.51,3.8
+CUST1257,Sur,Al Sharqiyah South,Regular,47,13.5,37.41,3.4
+CUST1258,Nizwa,Al Dakhiliyah,Premium,35,3.0,44.24,4.2
+CUST1259,Nizwa,Al Dakhiliyah,Regular,60,10.5,38.88,3.3
+CUST1260,Muscat City,Muscat,Regular,29,18.8,47.9,3.7
+CUST1261,Muscat City,Muscat,Business,49,16.7,109.94,3.0
+CUST1262,Muscat City,Muscat,Business,37,11.2,111.79,3.8
+CUST1263,Sur,Al Sharqiyah South,Regular,43,11.4,73.18,4.3
+CUST1264,Muscat City,Muscat,Regular,39,15.4,29.88,3.2
+CUST1265,Muscat City,Muscat,Regular,19,13.3,34.44,3.8
+CUST1266,Nizwa,Al Dakhiliyah,Regular,39,6.3,5.0,4.4
+CUST1267,Sohar,Al Batinah North,Regular,22,9.3,45.3,3.5
+CUST1268,Seeb,Muscat,Regular,37,16.9,35.41,2.8
+CUST1269,Sohar,Al Batinah North,Regular,20,8.7,39.06,3.7
+CUST1270,Seeb,Muscat,Premium,45,19.9,68.72,3.7
+CUST1271,Nizwa,Al Dakhiliyah,Premium,20,7.1,56.84,4.0
+CUST1272,Sur,Al Sharqiyah South,Regular,51,6.3,60.51,4.1
+CUST1273,Seeb,Muscat,Premium,54,16.8,85.68,2.6
+CUST1274,Sohar,Al Batinah North,Regular,30,11.5,48.0,3.5
+CUST1275,Salalah,Dhofar,Regular,29,9.3,7.92,3.6
+CUST1276,Sur,Al Sharqiyah South,Regular,21,19.9,20.03,2.9
+CUST1277,Seeb,Muscat,Regular,35,13.8,24.78,3.2
+CUST1278,Seeb,Muscat,Business,64,6.1,76.38,3.9
+CUST1279,Muscat City,Muscat,Regular,35,20.0,28.37,2.3
+CUST1280,Muscat City,Muscat,Business,22,16.2,110.11,3.5
+CUST1281,Sohar,Al Batinah North,Premium,43,9.6,74.39,3.3
+CUST1282,Sohar,Al Batinah North,Regular,40,16.0,23.35,2.4
+CUST1283,Muscat City,Muscat,Regular,31,17.0,41.74,3.2
+CUST1284,Nizwa,Al Dakhiliyah,Premium,45,11.4,73.12,3.9
+CUST1285,Muscat City,Muscat,Regular,32,14.7,38.71,3.0
+CUST1286,Sohar,Al Batinah North,Regular,35,17.5,51.57,3.7
+CUST1287,Seeb,Muscat,Regular,27,9.7,15.93,2.6
+CUST1288,Sur,Al Sharqiyah South,Regular,46,7.2,5.26,4.1
+CUST1289,Muscat City,Muscat,Regular,33,13.9,62.59,3.4
+CUST1290,Nizwa,Al Dakhiliyah,Business,25,18.8,76.89,3.7
+CUST1291,Nizwa,Al Dakhiliyah,Business,43,6.8,116.63,4.6
+CUST1292,Seeb,Muscat,Business,33,5.3,99.86,3.2
+CUST1293,Seeb,Muscat,Regular,26,5.0,36.75,3.4
+CUST1294,Muscat City,Muscat,Regular,28,6.8,59.99,3.3
+CUST1295,Sur,Al Sharqiyah South,Premium,44,12.6,30.71,3.3
+CUST1296,Sohar,Al Batinah North,Premium,48,15.4,39.4,2.6
+CUST1297,Seeb,Muscat,Regular,29,13.4,41.36,3.6
+CUST1298,Salalah,Dhofar,Regular,37,14.7,22.93,3.9
+CUST1299,Seeb,Muscat,Premium,51,6.5,69.75,3.8
+CUST1300,Sohar,Al Batinah North,Regular,48,13.7,54.8,3.9
+CUST1301,Muscat City,Muscat,Business,49,14.1,120.79,2.8
+CUST1302,Nizwa,Al Dakhiliyah,Premium,41,10.8,92.58,4.0
+CUST1303,Salalah,Dhofar,Regular,34,12.1,53.87,3.7
+CUST1304,Seeb,Muscat,Business,49,11.0,73.01,3.1
+CUST1305,Sohar,Al Batinah North,Regular,38,10.2,56.25,3.4
+CUST1306,Sur,Al Sharqiyah South,Premium,31,5.1,53.47,3.3
+CUST1307,Muscat City,Muscat,Regular,23,1.0,43.91,3.7
+CUST1308,Sohar,Al Batinah North,Regular,27,7.9,36.6,4.1
+CUST1309,Sohar,Al Batinah North,Regular,18,1.0,20.37,3.9
+CUST1310,Salalah,Dhofar,Regular,41,4.0,30.33,3.9
+CUST1311,Sohar,Al Batinah North,Regular,33,14.4,43.49,3.7
+CUST1312,Seeb,Muscat,Premium,18,15.4,43.03,3.7
+CUST1313,Muscat City,Muscat,Regular,29,13.5,38.38,3.3
+CUST1314,Nizwa,Al Dakhiliyah,Regular,33,3.6,42.44,4.1
+CUST1315,Seeb,Muscat,Regular,44,13.2,25.3,2.7
+CUST1316,Salalah,Dhofar,Regular,64,15.5,50.89,3.7
+CUST1317,Seeb,Muscat,Regular,23,10.4,18.64,3.2
+CUST1318,Muscat City,Muscat,Regular,55,13.9,79.29,4.2
+CUST1319,Muscat City,Muscat,Business,46,10.5,97.03,3.6
+CUST1320,Sohar,Al Batinah North,Premium,38,20.1,36.12,3.2
+CUST1321,Sohar,Al Batinah North,Regular,41,13.3,32.97,2.7
+CUST1322,Seeb,Muscat,Regular,45,14.6,46.99,2.4
+CUST1323,Seeb,Muscat,Regular,34,15.4,27.51,3.2
+CUST1324,Nizwa,Al Dakhiliyah,Regular,33,12.0,20.1,3.5
+CUST1325,Muscat City,Muscat,Regular,42,16.2,46.65,2.7
+CUST1326,Seeb,Muscat,Regular,29,15.1,9.54,2.9
+CUST1327,Muscat City,Muscat,Regular,54,14.1,58.33,3.3
+CUST1328,Seeb,Muscat,Regular,39,12.6,5.0,3.5
+CUST1329,Sur,Al Sharqiyah South,Business,55,11.9,89.33,3.3
+CUST1330,Seeb,Muscat,Regular,18,10.4,35.6,3.6
+CUST1331,Seeb,Muscat,Regular,27,7.3,49.28,3.1
+CUST1332,Salalah,Dhofar,Regular,48,7.8,14.91,3.3
+CUST1333,Nizwa,Al Dakhiliyah,Regular,35,7.5,54.26,3.7
+CUST1334,Sohar,Al Batinah North,Regular,44,5.2,13.07,4.1
+CUST1335,Sohar,Al Batinah North,Regular,21,13.5,43.87,3.8
+CUST1336,Muscat City,Muscat,Regular,46,14.0,25.01,3.4
+CUST1337,Seeb,Muscat,Regular,25,13.7,18.7,3.9
+CUST1338,Nizwa,Al Dakhiliyah,Regular,46,14.3,29.1,3.1
+CUST1339,Muscat City,Muscat,Regular,33,17.1,29.71,2.6
+CUST1340,Salalah,Dhofar,Regular,55,10.0,75.69,2.7
+CUST1341,Seeb,Muscat,Regular,19,15.4,33.16,3.3
+CUST1342,Salalah,Dhofar,Premium,35,9.2,65.75,5.0
+CUST1343,Muscat City,Muscat,Regular,31,17.3,40.05,1.8
+CUST1344,Salalah,Dhofar,Regular,35,12.9,41.85,2.8
+CUST1345,Seeb,Muscat,Regular,49,4.5,32.63,4.4
+CUST1346,Sohar,Al Batinah North,Regular,51,12.3,61.84,3.0
+CUST1347,Muscat City,Muscat,Regular,48,21.2,36.77,3.4
+CUST1348,Salalah,Dhofar,Business,39,19.6,76.37,2.4
+CUST1349,Muscat City,Muscat,Regular,31,15.4,38.57,3.0
+CUST1350,Muscat City,Muscat,Regular,37,14.2,37.74,3.6
+CUST1351,Muscat City,Muscat,Regular,48,9.2,43.89,3.3
+CUST1352,Muscat City,Muscat,Regular,38,10.5,40.51,2.6
+CUST1353,Muscat City,Muscat,Regular,22,9.9,5.0,2.9
+CUST1354,Muscat City,Muscat,Regular,31,11.1,63.69,3.5
+CUST1355,Seeb,Muscat,Regular,18,15.4,36.13,2.3
+CUST1356,Muscat City,Muscat,Regular,25,11.7,47.93,3.3
+CUST1357,Nizwa,Al Dakhiliyah,Regular,23,9.7,38.14,4.0
+CUST1358,Salalah,Dhofar,Business,65,11.6,87.8,4.2
+CUST1359,Muscat City,Muscat,Regular,30,19.6,41.51,3.8
+CUST1360,Muscat City,Muscat,Premium,18,11.5,55.75,4.2
+CUST1361,Muscat City,Muscat,Regular,18,14.9,50.41,2.9
+CUST1362,Salalah,Dhofar,Regular,33,11.1,33.09,4.0
+CUST1363,Sohar,Al Batinah North,Business,32,10.7,97.51,2.8
+CUST1364,Sur,Al Sharqiyah South,Business,51,10.4,113.29,4.4
+CUST1365,Muscat City,Muscat,Premium,28,12.0,91.56,2.8
+CUST1366,Sur,Al Sharqiyah South,Regular,35,2.3,46.85,4.4
+CUST1367,Sohar,Al Batinah North,Regular,30,6.5,61.94,4.4
+CUST1368,Seeb,Muscat,Regular,31,14.0,20.22,3.4
+CUST1369,Muscat City,Muscat,Premium,34,9.0,72.86,3.9
+CUST1370,Muscat City,Muscat,Regular,20,6.3,41.26,3.8
+CUST1371,Sohar,Al Batinah North,Premium,25,9.6,39.82,3.3
+CUST1372,Sohar,Al Batinah North,Premium,32,12.0,57.11,4.5
+CUST1373,Salalah,Dhofar,Business,53,15.0,91.36,3.1
+CUST1374,Muscat City,Muscat,Regular,45,11.4,42.41,3.2
+CUST1375,Sohar,Al Batinah North,Regular,36,12.2,27.22,2.7
+CUST1376,Nizwa,Al Dakhiliyah,Regular,18,9.2,39.48,4.0
+CUST1377,Seeb,Muscat,Premium,67,16.2,45.1,3.0
+CUST1378,Seeb,Muscat,Premium,44,17.4,53.76,2.6
+CUST1379,Nizwa,Al Dakhiliyah,Regular,48,7.7,32.23,3.7
+CUST1380,Salalah,Dhofar,Regular,25,10.0,24.25,4.0
+CUST1381,Muscat City,Muscat,Regular,39,15.0,33.86,2.5
+CUST1382,Nizwa,Al Dakhiliyah,Regular,40,9.7,53.61,3.7
+CUST1383,Muscat City,Muscat,Regular,18,6.0,30.21,3.5
+CUST1384,Seeb,Muscat,Regular,49,11.3,23.35,2.8
+CUST1385,Sur,Al Sharqiyah South,Regular,42,8.4,57.49,3.4
+CUST1386,Muscat City,Muscat,Regular,39,8.7,5.0,3.8
+CUST1387,Sohar,Al Batinah North,Regular,34,6.6,32.36,3.6
+CUST1388,Nizwa,Al Dakhiliyah,Regular,36,14.2,59.14,4.1
+CUST1389,Muscat City,Muscat,Premium,39,13.3,73.01,3.8
+CUST1390,Nizwa,Al Dakhiliyah,Business,34,7.1,59.32,4.9
+CUST1391,Nizwa,Al Dakhiliyah,Regular,27,16.8,35.26,2.3
+CUST1392,Muscat City,Muscat,Regular,38,8.8,17.84,3.6
+CUST1393,Salalah,Dhofar,Regular,18,11.6,28.62,3.1
+CUST1394,Muscat City,Muscat,Premium,32,7.0,69.29,4.0
+CUST1395,Seeb,Muscat,Regular,32,11.7,15.92,2.7
+CUST1396,Sohar,Al Batinah North,Regular,28,9.0,40.24,4.8
+CUST1397,Seeb,Muscat,Regular,34,19.3,33.09,2.4
+CUST1398,Sohar,Al Batinah North,Regular,31,12.6,40.22,3.6
+CUST1399,Seeb,Muscat,Business,31,9.8,86.22,3.9
+CUST1400,Sur,Al Sharqiyah South,Premium,40,6.0,66.88,3.6
+CUST1401,Seeb,Muscat,Premium,33,9.7,67.59,4.1
+CUST1402,Sur,Al Sharqiyah South,Regular,52,10.7,5.04,2.8
+CUST1403,Sohar,Al Batinah North,Regular,18,12.5,23.31,4.1
+CUST1404,Salalah,Dhofar,Premium,42,6.0,42.2,3.8
+CUST1405,Seeb,Muscat,Regular,46,3.4,46.96,4.0
+CUST1406,Seeb,Muscat,Regular,20,10.0,42.78,3.6
+CUST1407,Muscat City,Muscat,Business,44,8.7,95.55,3.9
+CUST1408,Muscat City,Muscat,Regular,25,21.5,52.8,3.1
+CUST1409,Muscat City,Muscat,Premium,54,7.7,57.63,2.6
+CUST1410,Sur,Al Sharqiyah South,Business,29,8.2,93.56,4.3
+CUST1411,Sur,Al Sharqiyah South,Regular,31,9.0,24.92,3.8
+CUST1412,Nizwa,Al Dakhiliyah,Regular,41,8.1,13.01,3.2
+CUST1413,Sohar,Al Batinah North,Business,47,14.1,80.26,3.1
+CUST1414,Sohar,Al Batinah North,Regular,36,9.2,8.9,4.5
+CUST1415,Muscat City,Muscat,Regular,44,10.0,39.22,2.6
+CUST1416,Muscat City,Muscat,Regular,38,17.7,50.34,2.3
+CUST1417,Sur,Al Sharqiyah South,Regular,34,9.6,5.73,3.6
+CUST1418,Muscat City,Muscat,Regular,39,20.1,59.11,1.8
+CUST1419,Muscat City,Muscat,Regular,38,14.9,33.17,2.6
+CUST1420,Seeb,Muscat,Premium,46,3.4,40.99,3.9
+CUST1421,Seeb,Muscat,Regular,34,10.3,28.5,2.6
+CUST1422,Seeb,Muscat,Premium,42,10.7,72.22,4.1
+CUST1423,Muscat City,Muscat,Premium,27,9.4,49.05,2.3
+CUST1424,Salalah,Dhofar,Business,43,5.1,69.2,4.6
+CUST1425,Sohar,Al Batinah North,Business,32,14.8,107.59,4.1
+CUST1426,Sur,Al Sharqiyah South,Regular,28,15.3,19.09,2.9
+CUST1427,Nizwa,Al Dakhiliyah,Business,32,11.1,99.92,3.7
+CUST1428,Sohar,Al Batinah North,Business,56,10.7,59.84,2.8
+CUST1429,Sur,Al Sharqiyah South,Business,43,12.3,62.63,5.0
+CUST1430,Muscat City,Muscat,Premium,31,16.7,40.62,2.9
+CUST1431,Muscat City,Muscat,Business,49,14.5,65.66,2.3
+CUST1432,Muscat City,Muscat,Business,46,6.4,95.1,5.0
+CUST1433,Nizwa,Al Dakhiliyah,Regular,49,6.8,5.0,3.2
+CUST1434,Muscat City,Muscat,Premium,44,8.9,72.96,4.0
+CUST1435,Nizwa,Al Dakhiliyah,Regular,43,4.7,40.85,3.7
+CUST1436,Sohar,Al Batinah North,Regular,34,11.0,30.55,4.1
+CUST1437,Seeb,Muscat,Premium,27,22.2,82.86,3.9
+CUST1438,Sohar,Al Batinah North,Regular,34,9.5,79.16,3.8
+CUST1439,Sur,Al Sharqiyah South,Business,35,12.7,122.47,3.3
+CUST1440,Sur,Al Sharqiyah South,Regular,36,12.1,52.62,3.7
+CUST1441,Muscat City,Muscat,Regular,18,8.4,26.24,4.0
+CUST1442,Muscat City,Muscat,Regular,29,16.4,51.83,3.7
+CUST1443,Sur,Al Sharqiyah South,Regular,33,9.6,35.48,4.0
+CUST1444,Seeb,Muscat,Regular,25,8.6,47.09,3.7
+CUST1445,Nizwa,Al Dakhiliyah,Premium,19,15.5,28.38,2.7
+CUST1446,Seeb,Muscat,Premium,28,14.3,70.05,3.2
+CUST1447,Sur,Al Sharqiyah South,Regular,38,6.8,34.12,3.3
+CUST1448,Sohar,Al Batinah North,Premium,38,12.0,48.14,3.7
+CUST1449,Muscat City,Muscat,Regular,49,17.1,14.32,1.9
+CUST1450,Muscat City,Muscat,Regular,33,14.9,19.29,3.2
+CUST1451,Seeb,Muscat,Regular,18,20.6,54.49,2.8
+CUST1452,Seeb,Muscat,Regular,30,10.5,52.62,2.6
+CUST1453,Salalah,Dhofar,Regular,45,1.7,42.61,5.0
+CUST1454,Seeb,Muscat,Premium,50,13.1,46.24,2.4
+CUST1455,Muscat City,Muscat,Regular,30,9.4,30.78,3.7
+CUST1456,Sohar,Al Batinah North,Premium,48,20.0,22.95,2.7
+CUST1457,Seeb,Muscat,Regular,39,12.9,15.77,3.2
+CUST1458,Sohar,Al Batinah North,Regular,18,5.3,5.0,4.1
+CUST1459,Nizwa,Al Dakhiliyah,Regular,37,9.7,48.97,3.9
+CUST1460,Sur,Al Sharqiyah South,Regular,52,12.4,42.9,3.0
+CUST1461,Seeb,Muscat,Business,46,18.1,77.36,2.0
+CUST1462,Salalah,Dhofar,Regular,42,7.5,33.26,3.5
+CUST1463,Salalah,Dhofar,Regular,28,12.3,63.28,3.8
+CUST1464,Nizwa,Al Dakhiliyah,Premium,35,10.3,65.43,2.9
+CUST1465,Muscat City,Muscat,Regular,46,17.4,63.0,3.0
+CUST1466,Salalah,Dhofar,Premium,34,11.4,47.58,3.3
+CUST1467,Sohar,Al Batinah North,Regular,54,9.0,36.93,3.4
+CUST1468,Sohar,Al Batinah North,Regular,18,11.2,27.67,3.1
+CUST1469,Muscat City,Muscat,Regular,32,22.0,84.64,2.7
+CUST1470,Nizwa,Al Dakhiliyah,Regular,45,13.1,41.44,2.6
+CUST1471,Salalah,Dhofar,Regular,46,15.0,16.63,3.5
+CUST1472,Nizwa,Al Dakhiliyah,Regular,32,8.4,42.38,3.6
+CUST1473,Sur,Al Sharqiyah South,Business,34,14.1,71.45,2.3
+CUST1474,Sur,Al Sharqiyah South,Business,32,15.1,82.38,3.2
+CUST1475,Sohar,Al Batinah North,Regular,32,9.3,43.43,4.4
+CUST1476,Seeb,Muscat,Premium,37,13.7,16.6,4.0
+CUST1477,Salalah,Dhofar,Regular,49,10.4,32.83,2.7
+CUST1478,Seeb,Muscat,Premium,54,8.2,87.8,3.9
+CUST1479,Salalah,Dhofar,Regular,41,13.2,40.49,2.7
+CUST1480,Sohar,Al Batinah North,Premium,18,8.6,10.33,3.9
+CUST1481,Muscat City,Muscat,Regular,43,12.2,53.22,3.8
+CUST1482,Sur,Al Sharqiyah South,Regular,21,13.6,5.0,2.8
+CUST1483,Salalah,Dhofar,Premium,46,8.9,55.22,3.1
+CUST1484,Sur,Al Sharqiyah South,Business,38,8.8,53.26,3.5
+CUST1485,Nizwa,Al Dakhiliyah,Regular,35,6.1,48.98,4.3
+CUST1486,Muscat City,Muscat,Regular,32,15.6,32.46,3.2
+CUST1487,Sohar,Al Batinah North,Premium,55,11.0,56.31,3.3
+CUST1488,Seeb,Muscat,Regular,42,10.8,46.93,4.0
+CUST1489,Muscat City,Muscat,Regular,43,13.6,60.12,3.6
+CUST1490,Salalah,Dhofar,Regular,52,4.7,74.68,4.2
+CUST1491,Salalah,Dhofar,Premium,24,5.1,80.09,4.2
+CUST1492,Seeb,Muscat,Regular,36,7.9,30.74,3.2
+CUST1493,Sohar,Al Batinah North,Regular,47,13.7,74.52,3.8
+CUST1494,Sohar,Al Batinah North,Regular,49,1.0,28.83,4.4
+CUST1495,Muscat City,Muscat,Regular,43,15.5,62.24,3.0
+CUST1496,Muscat City,Muscat,Regular,39,7.5,37.32,3.8
+CUST1497,Nizwa,Al Dakhiliyah,Regular,56,13.1,18.78,3.2
+CUST1498,Salalah,Dhofar,Regular,30,11.2,53.35,3.3
+CUST1499,Sur,Al Sharqiyah South,Regular,53,1.0,48.09,4.1
+CUST1500,Muscat City,Muscat,Regular,24,13.1,27.96,3.0
