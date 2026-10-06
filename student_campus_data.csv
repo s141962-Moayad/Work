@@ -1,0 +1,121 @@
+Student_ID,Gender,Faculty,Year_Level,Transport_Mode,Learning_Mode,Preferred_Activity,Study_Hours,Quiz_Score
+S1001,Male,Economics,Year 3,Bus,Blended,Coding,5.5,92
+S1002,Female,Economics,Year 1,Bus,Face-to-Face,Video Tutorial,3.9,72
+S1003,Female,Engineering,Year 2,Taxi,Face-to-Face,Video Tutorial,0.7,74
+S1004,Male,Science,Year 3,Bus,Online,Video Tutorial,3.2,61
+S1005,Female,Engineering,Year 4,Walk,Face-to-Face,Reading,3.7,68
+S1006,Male,Science,Year 1,Bus,Online,Coding,1.7,65
+S1007,Male,Economics,Year 2,Bus,Blended,Group Discussion,3.8,45
+S1008,Female,Economics,Year 2,Car,Face-to-Face,Video Tutorial,2.3,87
+S1009,Male,Education,Year 3,Car,Blended,Video Tutorial,3.3,66
+S1010,Male,Science,Year 1,Taxi,Face-to-Face,Coding,4.2,70
+S1011,Male,Engineering,Year 3,Walk,Face-to-Face,Coding,4.0,73
+S1012,Male,Economics,Year 2,Taxi,Online,Group Discussion,2.0,74
+S1013,Female,Engineering,Year 2,Walk,Face-to-Face,Group Discussion,3.3,64
+S1014,Male,Engineering,Year 2,Walk,Blended,Video Tutorial,1.4,81
+S1015,Male,Economics,Year 4,Walk,Face-to-Face,Group Discussion,2.1,82
+S1016,Male,Economics,Year 3,Car,Face-to-Face,Group Discussion,0.5,67
+S1017,Male,Science,Year 1,Taxi,Blended,Group Discussion,3.9,79
+S1018,Female,Science,Year 4,Walk,Face-to-Face,Group Discussion,1.9,88
+S1019,Male,Science,Year 1,Car,Blended,Reading,6.4,74
+S1020,Male,Education,Year 3,Car,Face-to-Face,Video Tutorial,2.5,76
+S1021,Female,Education,Year 3,Bus,Face-to-Face,Reading,2.5,72
+S1022,Female,Education,Year 4,Taxi,Blended,Group Discussion,3.4,81
+S1023,Male,Education,Year 3,Walk,Blended,Group Discussion,2.4,63
+S1024,Female,Engineering,Year 3,Car,Blended,Coding,2.4,67
+S1025,Female,Economics,Year 4,Car,Blended,Video Tutorial,3.4,68
+S1026,Female,Science,Year 4,Walk,Face-to-Face,Group Discussion,4.0,71
+S1027,Female,Science,Year 1,Car,Blended,Coding,1.2,62
+S1028,Female,Science,Year 3,Car,Face-to-Face,Group Discussion,1.0,69
+S1029,Female,Engineering,Year 3,Bus,Online,Reading,5.0,91
+S1030,Male,Economics,Year 3,Car,Blended,Coding,3.1,87
+S1031,Male,Economics,Year 1,Walk,Face-to-Face,Group Discussion,5.2,57
+S1032,Female,Science,Year 2,Bus,Face-to-Face,Coding,4.4,83
+S1033,Female,Engineering,Year 4,Car,Blended,Video Tutorial,2.4,89
+S1034,Male,Economics,Year 3,Car,Online,Group Discussion,5.2,100
+S1035,Female,Engineering,Year 2,Car,Face-to-Face,Reading,3.7,61
+S1036,Male,Economics,Year 1,Car,Online,Group Discussion,3.8,92
+S1037,Female,Science,Year 2,Bus,Blended,Coding,1.6,56
+S1038,Female,Science,Year 3,Bus,Face-to-Face,Coding,2.7,70
+S1039,Male,Economics,Year 1,Car,Face-to-Face,Reading,0.5,81
+S1040,Male,Engineering,Year 1,Bus,Online,Coding,5.7,59
+S1041,Female,Science,Year 3,Bus,Blended,Video Tutorial,4.3,81
+S1042,Female,Education,Year 3,Bus,Online,Video Tutorial,3.3,63
+S1043,Male,Engineering,Year 1,Car,Blended,Reading,3.4,60
+S1044,Female,Engineering,Year 2,Car,Blended,Video Tutorial,2.6,67
+S1045,Female,Science,Year 2,Car,Blended,Video Tutorial,2.2,85
+S1046,Male,Engineering,Year 2,Walk,Face-to-Face,Reading,3.6,50
+S1047,Female,Engineering,Year 1,Walk,Face-to-Face,Video Tutorial,3.0,49
+S1048,Male,Engineering,Year 2,Car,Blended,Coding,0.7,74
+S1049,Male,Engineering,Year 3,Car,Face-to-Face,Video Tutorial,1.4,74
+S1050,Male,Economics,Year 2,Car,Blended,Group Discussion,3.3,81
+S1051,Female,Science,Year 2,Walk,Face-to-Face,Reading,5.6,56
+S1052,Male,Education,Year 2,Car,Face-to-Face,Coding,2.4,74
+S1053,Female,Science,Year 1,Walk,Blended,Group Discussion,4.3,84
+S1054,Female,Engineering,Year 4,Car,Face-to-Face,Coding,4.3,70
+S1055,Male,Science,Year 1,Bus,Online,Reading,5.3,70
+S1056,Female,Science,Year 3,Car,Face-to-Face,Group Discussion,3.5,84
+S1057,Female,Economics,Year 3,Car,Face-to-Face,Coding,2.6,86
+S1058,Male,Engineering,Year 2,Walk,Online,Coding,3.1,70
+S1059,Female,Science,Year 4,Walk,Face-to-Face,Group Discussion,2.7,72
+S1060,Male,Economics,Year 4,Walk,Face-to-Face,Coding,3.0,57
+S1061,Female,Engineering,Year 1,Car,Blended,Coding,3.9,89
+S1062,Male,Science,Year 2,Bus,Blended,Video Tutorial,4.6,54
+S1063,Female,Education,Year 1,Car,Blended,Group Discussion,3.4,64
+S1064,Male,Science,Year 3,Car,Blended,Coding,1.2,62
+S1065,Male,Science,Year 2,Car,Face-to-Face,Group Discussion,2.4,80
+S1066,Female,Engineering,Year 1,Bus,Blended,Group Discussion,2.6,69
+S1067,Male,Science,Year 1,Car,Face-to-Face,Coding,1.3,69
+S1068,Female,Education,Year 1,Bus,Online,Group Discussion,2.5,58
+S1069,Male,Education,Year 1,Car,Blended,Reading,2.9,90
+S1070,Female,Science,Year 3,Bus,Face-to-Face,Video Tutorial,2.3,60
+S1071,Male,Science,Year 1,Car,Face-to-Face,Group Discussion,3.3,48
+S1072,Female,Science,Year 3,Car,Face-to-Face,Coding,2.6,70
+S1073,Female,Education,Year 1,Car,Online,Video Tutorial,4.4,58
+S1074,Male,Education,Year 1,Car,Face-to-Face,Group Discussion,3.7,55
+S1075,Male,Science,Year 3,Car,Online,Reading,2.3,61
+S1076,Male,Science,Year 4,Car,Online,Coding,3.3,72
+S1077,Female,Engineering,Year 4,Walk,Blended,Coding,3.0,92
+S1078,Male,Science,Year 4,Walk,Face-to-Face,Coding,4.3,86
+S1079,Male,Engineering,Year 2,Walk,Face-to-Face,Group Discussion,2.6,58
+S1080,Male,Engineering,Year 2,Car,Blended,Video Tutorial,1.7,80
+S1081,Male,Science,Year 4,Car,Face-to-Face,Coding,3.5,94
+S1082,Male,Engineering,Year 2,Bus,Online,Group Discussion,3.0,64
+S1083,Female,Economics,Year 3,Car,Online,Coding,4.0,80
+S1084,Female,Economics,Year 3,Walk,Face-to-Face,Reading,3.6,73
+S1085,Female,Economics,Year 2,Car,Blended,Group Discussion,2.9,72
+S1086,Female,Science,Year 1,Bus,Face-to-Face,Video Tutorial,2.9,60
+S1087,Female,Economics,Year 2,Car,Blended,Coding,3.1,93
+S1088,Male,Economics,Year 3,Car,Face-to-Face,Coding,2.0,67
+S1089,Male,Science,Year 3,Walk,Blended,Reading,5.2,84
+S1090,Male,Engineering,Year 3,Bus,Blended,Coding,2.6,75
+S1091,Female,Science,Year 4,Bus,Face-to-Face,Coding,2.6,49
+S1092,Male,Engineering,Year 2,Car,Online,Reading,3.6,80
+S1093,Male,Education,Year 4,Bus,Blended,Video Tutorial,3.8,76
+S1094,Male,Science,Year 1,Taxi,Blended,Video Tutorial,6.1,71
+S1095,Male,Engineering,Year 4,Car,Online,Coding,2.9,66
+S1096,Male,Economics,Year 2,Bus,Face-to-Face,Coding,4.6,50
+S1097,Male,Economics,Year 4,Bus,Face-to-Face,Coding,5.9,81
+S1098,Female,Engineering,Year 3,Taxi,Blended,Video Tutorial,4.8,70
+S1099,Male,Economics,Year 1,Bus,Blended,Group Discussion,5.5,65
+S1100,Female,Engineering,Year 2,Car,Online,Video Tutorial,3.4,79
+S1101,Male,Economics,Year 4,Taxi,Face-to-Face,Group Discussion,3.0,76
+S1102,Male,Science,Year 4,Taxi,Blended,Coding,4.3,80
+S1103,Female,Engineering,Year 4,Car,Online,Coding,1.8,72
+S1104,Female,Economics,Year 2,Car,Face-to-Face,Coding,2.9,65
+S1105,Male,Economics,Year 1,Car,Face-to-Face,Video Tutorial,2.7,54
+S1106,Male,Science,Year 4,Car,Face-to-Face,Reading,6.2,71
+S1107,Male,Engineering,Year 3,Car,Face-to-Face,Video Tutorial,2.4,75
+S1108,Female,Economics,Year 2,Car,Blended,Coding,2.2,76
+S1109,Male,Science,Year 3,Bus,Face-to-Face,Coding,3.1,61
+S1110,Female,Science,Year 1,Car,Face-to-Face,Video Tutorial,3.7,64
+S1111,Female,Science,Year 3,Taxi,Face-to-Face,Coding,2.8,82
+S1112,Female,Science,Year 4,Walk,Face-to-Face,Group Discussion,3.2,76
+S1113,Female,Science,Year 2,Car,Face-to-Face,Coding,1.7,60
+S1114,Female,Science,Year 1,Bus,Face-to-Face,Video Tutorial,1.4,70
+S1115,Female,Engineering,Year 3,Walk,Face-to-Face,Video Tutorial,3.4,83
+S1116,Female,Economics,Year 2,Bus,Online,Video Tutorial,3.2,87
+S1117,Male,Economics,Year 2,Car,Online,Coding,3.4,73
+S1118,Male,Economics,Year 3,Car,Face-to-Face,Reading,2.6,70
+S1119,Female,Science,Year 3,Bus,Blended,Group Discussion,4.1,94
+S1120,Male,Education,Year 1,Walk,Face-to-Face,Coding,4.1,64
