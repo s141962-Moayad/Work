@@ -1,0 +1,43 @@
+{
+  "name": "shaqlah",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SHAQLAH (شقلح) — Arabic restaurant ordering, pickup scheduling and table reservation platform",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit",
+    "db:migrate": "tsx --env-file-if-exists=.env scripts/migrate.ts",
+    "db:seed": "tsx --env-file-if-exists=.env scripts/seed.ts",
+    "db:setup": "npm run db:migrate && npm run db:seed",
+    "icons": "node scripts/gen-icons.mjs",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@fontsource-variable/cairo": "^5.3.0",
+    "bcryptjs": "^3.0.3",
+    "jose": "^6.2.12",
+    "next": "^15.5.27",
+    "nodemailer": "^10.1.1",
+    "pg": "^8.23.1",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^26.6.5",
+    "@types/nodemailer": "^8.0.2",
+    "@types/pg": "^8.23.1",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.6.1",
+    "playwright": "^1.64.1",
+    "postcss": "^8.5.30",
+    "tailwindcss": "^3.4.19",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.4"
+  }
+}
