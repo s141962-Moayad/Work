@@ -145,7 +145,7 @@ export function CheckoutForm({
       {!openStatus.open && <div className="mb-4 rounded-2xl bg-gold-light p-4 text-sm font-semibold">🕒 {openStatus.text} — يمكنك جدولة الاستلام لموعد قادم.</div>}
 
       <div className="grid gap-6 lg:grid-cols-3">
-        <div className="space-y-6 lg:col-span-2">
+        <div className="min-w-0 space-y-6 lg:col-span-2">
           {/* contact */}
           <section className="card p-5 sm:p-6">
             <h2 className="mb-4 text-lg font-extrabold">١. بيانات التواصل</h2>

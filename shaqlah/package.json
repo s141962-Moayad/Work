@@ -8,6 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "tsc --noEmit",
+    "start:standalone": "node .next/standalone/server.js",
+    "test:e2e": "node tests/e2e.mjs",
     "db:migrate": "tsx --env-file-if-exists=.env scripts/migrate.ts",
     "db:seed": "tsx --env-file-if-exists=.env scripts/seed.ts",
     "db:setup": "npm run db:migrate && npm run db:seed",

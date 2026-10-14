@@ -1,0 +1,44 @@
+# Production-style stack: app + PostgreSQL. Put a TLS-terminating reverse proxy
+# (Caddy / Nginx / Cloudflare) in front of port 3000 — the app must be served over HTTPS.
+#
+#   cp .env.example .env   # fill AUTH_SECRET, ADMIN_*, APP_URL, payment keys…
+#   docker compose up -d db
+#   docker compose run --rm tools          # create tables, tables seed, first admin
+#   docker compose up -d app
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: shaqlah
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env}
+      POSTGRES_DB: shaqlah
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U shaqlah"]
+      interval: 5s
+      retries: 10
+
+  app:
+    build: { context: ., target: runner }
+    restart: unless-stopped
+    depends_on: { db: { condition: service_healthy } }
+    env_file: .env
+    environment:
+      DATABASE_URL: postgres://shaqlah:${POSTGRES_PASSWORD}@db:5432/shaqlah
+      NODE_ENV: production
+    ports: ["3000:3000"]
+    volumes: [uploads:/data/uploads]
+
+  tools:
+    profiles: ["tools"]
+    build: { context: ., target: tools }
+    depends_on: { db: { condition: service_healthy } }
+    env_file: .env
+    environment:
+      DATABASE_URL: postgres://shaqlah:${POSTGRES_PASSWORD}@db:5432/shaqlah
+      NODE_ENV: production
+
+volumes:
+  pgdata:
+  uploads:
