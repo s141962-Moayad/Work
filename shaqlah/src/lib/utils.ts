@@ -4,7 +4,9 @@ import { TZ_NAME, TZ_OFFSET_MIN, CURRENCY_AR } from "./constants";
 export const toBaisa = (omr: number) => Math.round(omr * 1000);
 export const fromBaisa = (b: number) => b / 1000;
 
-const ARAB = "ar-OM-u-nu-arab";
+/** Arabic-Indic digits by default (٠١٢…). Set NEXT_PUBLIC_DIGITS=latn to show 0123… instead. */
+export const LOCALE = `ar-OM-u-nu-${process.env.NEXT_PUBLIC_DIGITS === "latn" ? "latn" : "arab"}`;
+const ARAB = LOCALE;
 const numFmt = new Intl.NumberFormat(ARAB, { minimumFractionDigits: 3, maximumFractionDigits: 3 });
 const intFmt = new Intl.NumberFormat(ARAB);
 

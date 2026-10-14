@@ -1,0 +1,7 @@
+import type { Metadata } from "next";
+import { CartView } from "@/components/cart-view";
+
+export const metadata: Metadata = { title: "سلة الطلبات" };
+export default function CartPage() {
+  return <CartView />;
+}

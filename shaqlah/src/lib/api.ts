@@ -58,13 +58,13 @@ interface Opts<S extends z.ZodType> {
   rate?: [string, number, number];
 }
 
-type RouteCtx = { params: Promise<Record<string, string>> };
+type RouteCtx = { params: Promise<any> };
 
 export function handler<S extends z.ZodType = z.ZodUndefined>(
   opts: Opts<S>,
   fn: (c: Ctx<z.infer<S>>) => Promise<unknown>,
 ) {
-  return async (req: NextRequest, rc?: RouteCtx): Promise<Response> => {
+  return async (req: NextRequest, rc: RouteCtx): Promise<Response> => {
     try {
       const method = req.method.toUpperCase();
       const ip = clientIp(req);

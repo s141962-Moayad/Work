@@ -1,23 +1,16 @@
 import type { Db } from "./db";
 import type { Settings } from "./settings";
 import { ApiError } from "./api";
-import { addDays, hhmmToMin, muscatDate, muscatDayStart, muscatTime, weekdayOf } from "./utils";
+import { addDays, muscatDate, muscatDayStart, muscatTime } from "./utils";
+import { openingWindow } from "./hours";
+
+export { openingWindow };
 
 export interface PickupSlot {
   start: string; // ISO
   time: string; // Muscat "HH:MM"
   nextDay: boolean; // after midnight of the selected business day
   remaining: number;
-}
-
-/** Opening window for a business day, in minutes since that day's midnight (end may exceed 1440). */
-export function openingWindow(date: string, settings: Settings): { start: number; end: number } | null {
-  const h = settings.hours[weekdayOf(date)];
-  if (!h || h.closed) return null;
-  const start = hhmmToMin(h.open);
-  let end = hhmmToMin(h.close);
-  if (end <= start) end += 1440;
-  return { start, end };
 }
 
 /** Every bookable start time of a business day (ignores "now", blocks and capacity). */
