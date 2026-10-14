@@ -23,7 +23,8 @@ const call = (h: any, url: string, init: RequestInit & { cookie?: string; params
   const headers = new Headers(init.headers);
   if (init.cookie) headers.set("cookie", init.cookie);
   if (init.body && !headers.has("content-type") && typeof init.body === "string") headers.set("content-type", "application/json");
-  const req = new NextRequest(`http://localhost${url}`, { ...init, headers });
+  const { cookie: _c, params: _p, signal, ...rest } = init;
+  const req = new NextRequest(`http://localhost${url}`, { ...rest, signal: signal ?? undefined, headers });
   return h(req, { params: Promise.resolve(init.params ?? {}) }) as Promise<Response>;
 };
 const json = (o: unknown) => JSON.stringify(o);
